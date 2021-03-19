@@ -1,0 +1,1350 @@
+{
+	"shopName": "亦潮卤馆(东晓南店)",
+	"shop_pic": "http://dc.fanxiaojian.com/?hotelid=1704464",
+	"categories": [
+		{
+			"name": "锅底",
+			"foods": [
+				{
+					"name": "正宗卤水锅底",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/9f46d625c53045388708d1018b5c06b8.jpg@600w_450h_1e_1c_1l",
+					"price": "36.0",
+					"unit": "份",
+					"categoryName": "锅底",
+					"props": []
+				},
+				{
+					"name": "香辣卤水锅底",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/976544ba017749ee868e762b32ded141.png@600w_450h_1e_1c_1l",
+					"price": "38.0",
+					"unit": "份",
+					"categoryName": "锅底",
+					"props": []
+				},
+				{
+					"name": "鸳鸯香辣番茄锅底",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/d09f2533daf5449a8f5317e6a5864d57.jpg@600w_450h_1e_1c_1l",
+					"price": "46.0",
+					"unit": "份",
+					"categoryName": "锅底",
+					"props": []
+				},
+				{
+					"name": "鸳鸯正宗番茄锅底",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/fc36b5a241fa471ca0623c956f12e2b0.jpg@600w_450h_1e_1c_1l",
+					"price": "46.0",
+					"unit": "份",
+					"categoryName": "锅底",
+					"props": []
+				},
+				{
+					"name": "鸳鸯正宗香辣锅底",
+					"picUrl": "",
+					"price": "56.0",
+					"unit": "份",
+					"categoryName": "锅底",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "招牌狮头鹅类",
+			"foods": [
+				{
+					"name": "一品脆鹅肠（小）",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/dcb90e41a2054a45b9e4028effc8693f.jpg@600w_450h_1e_1c_1l",
+					"price": "28.0",
+					"unit": "份",
+					"categoryName": "招牌狮头鹅类",
+					"props": []
+				},
+				{
+					"name": "一品脆鹅肠（大）",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/a7f2e484e0144bf0862f962b6f82d327.jpg@600w_450h_1e_1c_1l",
+					"price": "48.0",
+					"unit": "份",
+					"categoryName": "招牌狮头鹅类",
+					"props": []
+				},
+				{
+					"name": "一品粉鹅肝（小）",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/e4abc9ecf3a24979a0e85c7f08ae0df2.jpg@600w_450h_1e_1c_1l",
+					"price": "48.0",
+					"unit": "份",
+					"categoryName": "招牌狮头鹅类",
+					"props": []
+				},
+				{
+					"name": "一品粉鹅肝（大）",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/f049f20939ea434cb792416ad960a6d1.jpg@600w_450h_1e_1c_1l",
+					"price": "88.0",
+					"unit": "份",
+					"categoryName": "招牌狮头鹅类",
+					"props": []
+				},
+				{
+					"name": "狮头鹅鹅掌",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/8f90eeec52a444f9aaaea23664c7fa82.jpg@600w_450h_1e_1c_1l",
+					"price": "38.0",
+					"unit": "份",
+					"categoryName": "招牌狮头鹅类",
+					"props": []
+				},
+				{
+					"name": "狮头鹅鹅翅",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/b24f4101aaf045f28731c5ff748daf8f.jpg@600w_450h_1e_1c_1l",
+					"price": "34.0",
+					"unit": "份",
+					"categoryName": "招牌狮头鹅类",
+					"props": []
+				},
+				{
+					"name": "爽口鹅胗",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/fea2a8e9887c49bdbb91c2f012040548.jpg@600w_450h_1e_1c_1l",
+					"price": "32.0",
+					"unit": "份",
+					"categoryName": "招牌狮头鹅类",
+					"props": []
+				},
+				{
+					"name": "片鹅心",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/72fbe42e1d8846bea068fc3100ee215e.jpg@600w_450h_1e_1c_1l",
+					"price": "18.0",
+					"unit": "份",
+					"categoryName": "招牌狮头鹅类",
+					"props": []
+				},
+				{
+					"name": "嫩滑鹅血",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/258f47aeea594800a0662b41106837e3.jpg@600w_450h_1e_1c_1l",
+					"price": "13.0",
+					"unit": "份",
+					"categoryName": "招牌狮头鹅类",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "熟食",
+			"foods": [
+				{
+					"name": "卤水狮头鹅掌",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/ae4d44526e39441e8628119c8771dc2b.jpg@600w_450h_1e_1c_1l",
+					"price": "38.0",
+					"unit": "份",
+					"categoryName": "熟食",
+					"props": []
+				},
+				{
+					"name": "卤水狮头鹅翅",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/3474a23523d94e0a995506764cbaca51.jpg@600w_450h_1e_1c_1l",
+					"price": "34.0",
+					"unit": "份",
+					"categoryName": "熟食",
+					"props": []
+				},
+				{
+					"name": "卤水狮头鹅珍",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/4a320e991925427a840307c1058db772.jpg@600w_450h_1e_1c_1l",
+					"price": "32.0",
+					"unit": "份",
+					"categoryName": "熟食",
+					"props": []
+				},
+				{
+					"name": "卤水三拼",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/1f14b3c37e634e39abe0f80d98258b16.jpg@600w_450h_1e_1c_1l",
+					"price": "88.0",
+					"unit": "份",
+					"categoryName": "熟食",
+					"props": []
+				},
+				{
+					"name": "卤水狮头鹅肉",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/12/dc3b75ea69f0469fb0646cde79e99de6.JPEG@600w_450h_1e_1c_1l",
+					"price": "36.0",
+					"unit": "份",
+					"categoryName": "熟食",
+					"props": []
+				},
+				{
+					"name": "卤水狮头头颈",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/12/e7f62cdf82d541429d73171776f69fe3.JPEG@600w_450h_1e_1c_1l",
+					"price": "88.0",
+					"unit": "份",
+					"categoryName": "熟食",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "拼盘",
+			"foods": [
+				{
+					"name": "大四喜",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/46194907bbf9420099ce2eefecc28909.jpg@600w_450h_1e_1c_1l",
+					"price": "48.0",
+					"unit": "份",
+					"categoryName": "拼盘",
+					"props": []
+				},
+				{
+					"name": "海鲜拼盘",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/30d30c35d76644a48934c3d141f38398.jpg@600w_450h_1e_1c_1l",
+					"price": "40.0",
+					"unit": "份",
+					"categoryName": "拼盘",
+					"props": []
+				},
+				{
+					"name": "大三元",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/4ca4a575558f4572b0c393354119e069.jpg@600w_450h_1e_1c_1l",
+					"price": "36.0",
+					"unit": "份",
+					"categoryName": "拼盘",
+					"props": []
+				},
+				{
+					"name": "王炸",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/6d9fd40cae744d73a84596955281ef71.jpg@600w_450h_1e_1c_1l",
+					"price": "12.0",
+					"unit": "份",
+					"categoryName": "拼盘",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "海鲜类",
+			"foods": [
+				{
+					"name": "乌鱼片",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/aba58a4b4c03413bb74e0b165931bd13.jpg@600w_450h_1e_1c_1l",
+					"price": "28.0",
+					"unit": "份",
+					"categoryName": "海鲜类",
+					"props": []
+				},
+				{
+					"name": "新西兰青口",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/7be337e8e1c14045b9becbf84578d067.jpg@600w_450h_1e_1c_1l",
+					"price": "30.0",
+					"unit": "份",
+					"categoryName": "海鲜类",
+					"props": []
+				},
+				{
+					"name": "精选生蚝（半打）",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/09/90fe8ca137dd4fc29420a248b4b516df.jpg@600w_450h_1e_1c_1l",
+					"price": "46.0",
+					"unit": "份",
+					"categoryName": "海鲜类",
+					"props": []
+				},
+				{
+					"name": "牡丹大虾",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/a00df4ef489743d0b008ded17a9800aa.jpg@600w_450h_1e_1c_1l",
+					"price": "36.0",
+					"unit": "份",
+					"categoryName": "海鲜类",
+					"props": []
+				},
+				{
+					"name": "墨鱼仔",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/bad72a636c3340dc88127c6eb60058da.jpg@600w_450h_1e_1c_1l",
+					"price": "28.0",
+					"unit": "份",
+					"categoryName": "海鲜类",
+					"props": []
+				},
+				{
+					"name": "鲜鱿鱼",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/af8f2e4379c0480a9b33c8c90db480b4.jpg@600w_450h_1e_1c_1l",
+					"price": "28.0",
+					"unit": "份",
+					"categoryName": "海鲜类",
+					"props": []
+				},
+				{
+					"name": "虾滑",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/0a4ca5870ecb4f9797f57052bca1a61a.jpg@600w_450h_1e_1c_1l",
+					"price": "30.0",
+					"unit": "份",
+					"categoryName": "海鲜类",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "肉类",
+			"foods": [
+				{
+					"name": "精选鲜牛肉",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/68b252d087e84f238ff2a0650bcf5c38.jpg@600w_450h_1e_1c_1l",
+					"price": "38.0",
+					"unit": "份",
+					"categoryName": "肉类",
+					"props": []
+				},
+				{
+					"name": "汕头牛筋丸",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/056e5ff883094e198c3180949316dc26.jpg@600w_450h_1e_1c_1l",
+					"price": "30.0",
+					"unit": "份",
+					"categoryName": "肉类",
+					"props": []
+				},
+				{
+					"name": "汕头达濠鱼丸",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/5467ddddbc5e4e2096b389d5484f04d4.jpg@600w_450h_1e_1c_1l",
+					"price": "28.0",
+					"unit": "份",
+					"categoryName": "肉类",
+					"props": []
+				},
+				{
+					"name": "墨鱼丸",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/f6be762dde934f53801a0965131dce68.jpg@600w_450h_1e_1c_1l",
+					"price": "28.0",
+					"unit": "份",
+					"categoryName": "肉类",
+					"props": []
+				},
+				{
+					"name": "龙虾球",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/11/a272551eea794538baebc08568c0fbb1.jpg@600w_450h_1e_1c_1l",
+					"price": "28.0",
+					"unit": "份",
+					"categoryName": "肉类",
+					"props": []
+				},
+				{
+					"name": "蟹柳",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/187ccde6cdca4191bc7a019e1ace8583.jpg@600w_450h_1e_1c_1l",
+					"price": "16.0",
+					"unit": "份",
+					"categoryName": "肉类",
+					"props": []
+				},
+				{
+					"name": "鳕鱼柳",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/2e184abbead14dd5bed8e043d41585f7.jpg@600w_450h_1e_1c_1l",
+					"price": "32.0",
+					"unit": "份",
+					"categoryName": "肉类",
+					"props": []
+				},
+				{
+					"name": "猪黄喉",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/09/b95bb1d382c944f28fc418a2591327f7.jpg@600w_450h_1e_1c_1l",
+					"price": "28.0",
+					"unit": "份",
+					"categoryName": "肉类",
+					"props": []
+				},
+				{
+					"name": "爽口毛肚",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/f4550108814344429d492f9c877c294f.jpg@600w_450h_1e_1c_1l",
+					"price": "36.0",
+					"unit": "份",
+					"categoryName": "肉类",
+					"props": []
+				},
+				{
+					"name": "千层肚",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/35fc2ea8b7aa4179a1419218e7462643.jpg@600w_450h_1e_1c_1l",
+					"price": "28.0",
+					"unit": "份",
+					"categoryName": "肉类",
+					"props": []
+				},
+				{
+					"name": "牛黄喉",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/4a73c7ad24e14cff8dc29132438a014c.jpg@600w_450h_1e_1c_1l",
+					"price": "28.0",
+					"unit": "份",
+					"categoryName": "肉类",
+					"props": []
+				},
+				{
+					"name": "金钱肚",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/3b007ebc226941499b6b6e9df68b8af5.jpg@600w_450h_1e_1c_1l",
+					"price": "32.0",
+					"unit": "份",
+					"categoryName": "肉类",
+					"props": []
+				},
+				{
+					"name": "精品鸭舌",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/50884e5b9779438cadfca9a0fa7e45e3.jpg@600w_450h_1e_1c_1l",
+					"price": "28.0",
+					"unit": "份",
+					"categoryName": "肉类",
+					"props": []
+				},
+				{
+					"name": "鹌鹑蛋",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/ec51d86d21004458b4b96dadb538f339.jpg@600w_450h_1e_1c_1l",
+					"price": "10.0",
+					"unit": "份",
+					"categoryName": "肉类",
+					"props": []
+				},
+				{
+					"name": "午餐肉",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/9a0b694d9f4e4fa9ad52ac8b74193c27.jpg@600w_450h_1e_1c_1l",
+					"price": "18.0",
+					"unit": "份",
+					"categoryName": "肉类",
+					"props": []
+				},
+				{
+					"name": "双汇培根肉",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/c8ca960dfc9e44c49de8630cca8d7354.jpg@600w_450h_1e_1c_1l",
+					"price": "16.0",
+					"unit": "份",
+					"categoryName": "肉类",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "素食类",
+			"foods": [
+				{
+					"name": "炸豆腐",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/3dafd3acf299483b87c026bdb09403ae.jpg@600w_450h_1e_1c_1l",
+					"price": "8.0",
+					"unit": "份",
+					"categoryName": "素食类",
+					"props": []
+				},
+				{
+					"name": "豆腐",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/73c09971f5b149c896c9e2b4ba3b470b.jpg@600w_450h_1e_1c_1l",
+					"price": "8.0",
+					"unit": "份",
+					"categoryName": "素食类",
+					"props": []
+				},
+				{
+					"name": "海芽菜",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/1ddd0631f8744422b07453516139aa1c.jpg@600w_450h_1e_1c_1l",
+					"price": "10.0",
+					"unit": "份",
+					"categoryName": "素食类",
+					"props": []
+				},
+				{
+					"name": "三秒响铃卷",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/bb4fa685be5948e48cd5634fc6d9730b.jpg@600w_450h_1e_1c_1l",
+					"price": "16.0",
+					"unit": "份",
+					"categoryName": "素食类",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "时蔬类",
+			"foods": [
+				{
+					"name": "白萝卜",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/d8d126e177b54e16b21a0b3a95f0c078.jpg@600w_450h_1e_1c_1l",
+					"price": "8.0",
+					"unit": "份",
+					"categoryName": "时蔬类",
+					"props": []
+				},
+				{
+					"name": "娃娃菜",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/5f9755b611674bbfbf0d2296d6f48ccd.jpg@600w_450h_1e_1c_1l",
+					"price": "10.0",
+					"unit": "份",
+					"categoryName": "时蔬类",
+					"props": []
+				},
+				{
+					"name": "豆芽",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/9bbb68ff066a40ccb23865f9b487cbb3.jpg@600w_450h_1e_1c_1l",
+					"price": "8.0",
+					"unit": "份",
+					"categoryName": "时蔬类",
+					"props": []
+				},
+				{
+					"name": "香菜",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/2399b3daeac34f1db40c74b64c0ab234.jpg@600w_450h_1e_1c_1l",
+					"price": "12.0",
+					"unit": "份",
+					"categoryName": "时蔬类",
+					"props": []
+				},
+				{
+					"name": "蒜叶",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/902b49902fce421abfd475ddd45fb5d5.jpg@600w_450h_1e_1c_1l",
+					"price": "12.0",
+					"unit": "份",
+					"categoryName": "时蔬类",
+					"props": []
+				},
+				{
+					"name": "油麦菜",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/75097528ac964ef2901e82d69430ec8c.jpg@600w_450h_1e_1c_1l",
+					"price": "12.0",
+					"unit": "份",
+					"categoryName": "时蔬类",
+					"props": []
+				},
+				{
+					"name": "包菜",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/502c48b37d9e4977b9a1f7ed88d3eb2b.jpg@600w_450h_1e_1c_1l",
+					"price": "10.0",
+					"unit": "份",
+					"categoryName": "时蔬类",
+					"props": []
+				},
+				{
+					"name": "生菜",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/1c4c0b6126d04744ac274278ede01cdd.jpg@600w_450h_1e_1c_1l",
+					"price": "10.0",
+					"unit": "份",
+					"categoryName": "时蔬类",
+					"props": []
+				},
+				{
+					"name": "冬瓜片",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/dd243d5405f3469fbae1ae12c88fd84c.jpg@600w_450h_1e_1c_1l",
+					"price": "8.0",
+					"unit": "份",
+					"categoryName": "时蔬类",
+					"props": []
+				},
+				{
+					"name": "玉米",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/a2d1a4450286425f844edea6d061aca0.jpg@600w_450h_1e_1c_1l",
+					"price": "10.0",
+					"unit": "份",
+					"categoryName": "时蔬类",
+					"props": []
+				},
+				{
+					"name": "杏鲍菇",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/e8dc02a0cbef48c58e3b8c8845c596fb.jpg@600w_450h_1e_1c_1l",
+					"price": "12.0",
+					"unit": "份",
+					"categoryName": "时蔬类",
+					"props": []
+				},
+				{
+					"name": "蔬菜拼盘",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/cee9911bfd914a02b920b9258e35b630.jpg@600w_450h_1e_1c_1l",
+					"price": "22.0",
+					"unit": "份",
+					"categoryName": "时蔬类",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "主食",
+			"foods": [
+				{
+					"name": "广式猪肠粉",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/e8c190e8f9ce45d2965226746672167d.jpg@600w_450h_1e_1c_1l",
+					"price": "8.0",
+					"unit": "份",
+					"categoryName": "主食",
+					"props": []
+				},
+				{
+					"name": "乌冬面",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/1ed89949721f4184b2ec123516f79863.jpg@600w_450h_1e_1c_1l",
+					"price": "10.0",
+					"unit": "份",
+					"categoryName": "主食",
+					"props": []
+				},
+				{
+					"name": "车仔面",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/c134cfc1c54443a49dd496ab535037e7.jpg@600w_450h_1e_1c_1l",
+					"price": "10.0",
+					"unit": "份",
+					"categoryName": "主食",
+					"props": []
+				},
+				{
+					"name": "魔芋丝",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/83f95873485745bb9ed421781bc69936.jpg@600w_450h_1e_1c_1l",
+					"price": "10.0",
+					"unit": "份",
+					"categoryName": "主食",
+					"props": []
+				},
+				{
+					"name": "米饭",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/344dc92d5e884f049efdf4f7fc3557f0.jpg@600w_450h_1e_1c_1l",
+					"price": "3.0",
+					"unit": "份",
+					"categoryName": "主食",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "酒水类",
+			"foods": [
+				{
+					"name": "茶位",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/e2d4448f52994b129f7931d5efa18412.jpg@600w_450h_1e_1c_1l",
+					"price": "4.0",
+					"unit": "位",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "可口可乐",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/0bea20a133af40d082d27dd21aa0d1f7.jpg@600w_450h_1e_1c_1l",
+					"price": "5.0",
+					"unit": "罐",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "雪碧",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/8f553dec85b14dfaa2b1a1fe26cbe32e.jpg@600w_450h_1e_1c_1l",
+					"price": "5.0",
+					"unit": "罐",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "加多宝",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/529e55b855a442349e9810abd4c20b61.jpg@600w_450h_1e_1c_1l",
+					"price": "5.0",
+					"unit": "罐",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "天地壹号罐装",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/59f1734f1a854f288c8dd77c33d343b1.jpg@600w_450h_1e_1c_1l",
+					"price": "6.0",
+					"unit": "罐",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "椰子汁",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/92773d7306dc4c2095015a45792a6d75.jpg@600w_450h_1e_1c_1l",
+					"price": "6.0",
+					"unit": "罐",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "维他柠檬茶",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/15d59992f39b449a95e6c231d71045a5.jpg@600w_450h_1e_1c_1l",
+					"price": "6.0",
+					"unit": "罐",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "天地壹号瓶装",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/48626d9ecb954508b820b0cd3d5ed694.jpg@600w_450h_1e_1c_1l",
+					"price": "26.0",
+					"unit": "罐",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "哈啤",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/6dd3b428367f4718992d16218d6f606c.jpg@600w_450h_1e_1c_1l",
+					"price": "6.0",
+					"unit": "罐",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "百威",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/ed964f25841b483992b764d34f7170c7.jpg@600w_450h_1e_1c_1l",
+					"price": "8.0",
+					"unit": "罐",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "喜力",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/c94f4447e2244f3693358347678d37ea.jpg@600w_450h_1e_1c_1l",
+					"price": "10.0",
+					"unit": "罐",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "蓝瓶百威",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/4b48da3d625a4d1285dcfdb089f3643b.jpg@600w_450h_1e_1c_1l",
+					"price": "12.0",
+					"unit": "罐",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "福佳白",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/d3ad65190d284d17ba72eb9147bfcf2f.jpg@600w_450h_1e_1c_1l",
+					"price": "12.0",
+					"unit": "瓶",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "卢云堡",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/b4603240fbed43da9bfff520cfecab36.jpg@600w_450h_1e_1c_1l",
+					"price": "12.0",
+					"unit": "瓶",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "科罗娜",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/fb76f19e4ffd43c785254410f296b769.jpg@600w_450h_1e_1c_1l",
+					"price": "12.0",
+					"unit": "瓶",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "蓝妹",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/6c798b6e1a994bcd863c69d949f0cb92.jpg@600w_450h_1e_1c_1l",
+					"price": "12.0",
+					"unit": "瓶",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "鹅岛",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/3a3f5bb5b0d7402e97e1749b641cc2ff.jpg@600w_450h_1e_1c_1l",
+					"price": "22.0",
+					"unit": "瓶",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "督威",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/4c42dea373194425b4f2d43405ee4e1f.jpg@600w_450h_1e_1c_1l",
+					"price": "25.0",
+					"unit": "瓶",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "罗斯福8号",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/adb1e45f59dd45dfb54e42160fffd014.jpg@600w_450h_1e_1c_1l",
+					"price": "28.0",
+					"unit": "瓶",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "14年鸭溪窖250ml",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/a890284fd21f4557ae911bcd546fbf10.jpg@600w_450h_1e_1c_1l",
+					"price": "48.0",
+					"unit": "瓶",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "白云边12年125ml",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/a73e82dffddd432889fc4ba97373119d.jpg@600w_450h_1e_1c_1l",
+					"price": "38.0",
+					"unit": "瓶",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "竹叶青45度",
+					"picUrl": "",
+					"price": "118.0",
+					"unit": "瓶",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "竹叶青53度",
+					"picUrl": "",
+					"price": "128.0",
+					"unit": "瓶",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "怡宝矿泉水",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/10/b1561b012dac4dcab2e3a059e4101189.jpg@600w_450h_1e_1c_1l",
+					"price": "3.0",
+					"unit": "瓶",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "补差价1元",
+					"picUrl": "",
+					"price": "1.0",
+					"unit": "份",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "打包盒",
+					"picUrl": "",
+					"price": "1.0",
+					"unit": "份",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "白酒",
+					"picUrl": "",
+					"price": "0.0",
+					"unit": "瓶",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "纸巾",
+					"picUrl": "",
+					"price": "2.0",
+					"unit": "包",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "调料",
+					"picUrl": "",
+					"price": "0.0",
+					"unit": "份",
+					"categoryName": "酒水类",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "套餐",
+			"foods": [
+				{
+					"name": "2人超值套餐",
+					"picUrl": "",
+					"price": "149.0",
+					"unit": "份",
+					"categoryName": "套餐",
+					"props": [
+						{
+							"name": "锅底",
+							"values": [
+								{
+									"value": "香辣卤水锅底",
+									"price": "38.0",
+									"propName": "锅底",
+									"isMul": true
+								},
+								{
+									"value": "正宗卤水锅底",
+									"price": "36.0",
+									"propName": "锅底",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "时蔬类",
+							"values": [
+								{
+									"value": "包菜",
+									"price": "10.0",
+									"propName": "时蔬类",
+									"isMul": true
+								},
+								{
+									"value": "油麦菜",
+									"price": "12.0",
+									"propName": "时蔬类",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "招牌狮头鹅类",
+							"values": [
+								{
+									"value": "狮头鹅鹅翅",
+									"price": "34.0",
+									"propName": "招牌狮头鹅类",
+									"isMul": true
+								},
+								{
+									"value": "卤水狮头鹅翅",
+									"price": "34.0",
+									"propName": "招牌狮头鹅类",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "招牌狮头鹅类",
+							"values": [
+								{
+									"value": "嫩滑鹅血",
+									"price": "13.0",
+									"propName": "招牌狮头鹅类",
+									"isMul": true
+								},
+								{
+									"value": "一品脆鹅肠（小）",
+									"price": "28.0",
+									"propName": "招牌狮头鹅类",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "拼盘",
+							"values": [
+								{
+									"value": "大四喜",
+									"price": "48.0",
+									"propName": "拼盘",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "肉类",
+							"values": [
+								{
+									"value": "汕头达濠鱼丸",
+									"price": "28.0",
+									"propName": "肉类",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "主食",
+							"values": [
+								{
+									"value": "广式猪肠粉",
+									"price": "8.0",
+									"propName": "主食",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "酒水类",
+							"values": [
+								{
+									"value": "茶位",
+									"price": "4.0",
+									"propName": "酒水类",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "3~4尊享套餐",
+					"picUrl": "",
+					"price": "239.0",
+					"unit": "份",
+					"categoryName": "套餐",
+					"props": [
+						{
+							"name": "锅底",
+							"values": [
+								{
+									"value": "正宗卤水锅底",
+									"price": "36.0",
+									"propName": "锅底",
+									"isMul": true
+								},
+								{
+									"value": "香辣卤水锅底",
+									"price": "38.0",
+									"propName": "锅底",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "招牌狮头鹅类",
+							"values": [
+								{
+									"value": "狮头鹅鹅翅",
+									"price": "34.0",
+									"propName": "招牌狮头鹅类",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "招牌狮头鹅类",
+							"values": [
+								{
+									"value": "一品粉鹅肝（小）",
+									"price": "48.0",
+									"propName": "招牌狮头鹅类",
+									"isMul": true
+								},
+								{
+									"value": "一品脆鹅肠（大）",
+									"price": "48.0",
+									"propName": "招牌狮头鹅类",
+									"isMul": true
+								},
+								{
+									"value": "嫩滑鹅血",
+									"price": "13.0",
+									"propName": "招牌狮头鹅类",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "拼盘",
+							"values": [
+								{
+									"value": "王炸",
+									"price": "12.0",
+									"propName": "拼盘",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "肉类",
+							"values": [
+								{
+									"value": "金钱肚",
+									"price": "32.0",
+									"propName": "肉类",
+									"isMul": true
+								},
+								{
+									"value": "蟹柳",
+									"price": "16.0",
+									"propName": "肉类",
+									"isMul": true
+								},
+								{
+									"value": "鹌鹑蛋",
+									"price": "10.0",
+									"propName": "肉类",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "时蔬类",
+							"values": [
+								{
+									"value": "蔬菜拼盘",
+									"price": "22.0",
+									"propName": "时蔬类",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "主食",
+							"values": [
+								{
+									"value": "广式猪肠粉",
+									"price": "8.0",
+									"propName": "主食",
+									"isMul": true
+								},
+								{
+									"value": "乌冬面",
+									"price": "10.0",
+									"propName": "主食",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "海鲜类",
+							"values": [
+								{
+									"value": "乌鱼片",
+									"price": "28.0",
+									"propName": "海鲜类",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "酒水类",
+							"values": [
+								{
+									"value": "茶位",
+									"price": "4.0",
+									"propName": "酒水类",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "觅食蜂套餐",
+					"picUrl": "",
+					"price": "0.0",
+					"unit": "份",
+					"categoryName": "套餐",
+					"props": [
+						{
+							"name": "锅底",
+							"values": [
+								{
+									"value": "正宗卤水锅底",
+									"price": "36.0",
+									"propName": "锅底",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "招牌狮头鹅类",
+							"values": [
+								{
+									"value": "嫩滑鹅血",
+									"price": "13.0",
+									"propName": "招牌狮头鹅类",
+									"isMul": true
+								},
+								{
+									"value": "片鹅心",
+									"price": "18.0",
+									"propName": "招牌狮头鹅类",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "海鲜类",
+							"values": [
+								{
+									"value": "乌鱼片",
+									"price": "28.0",
+									"propName": "海鲜类",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "肉类",
+							"values": [
+								{
+									"value": "蟹柳",
+									"price": "16.0",
+									"propName": "肉类",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "主食",
+							"values": [
+								{
+									"value": "广式猪肠粉",
+									"price": "8.0",
+									"propName": "主食",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "时蔬类",
+							"values": [
+								{
+									"value": "蔬菜拼盘",
+									"price": "22.0",
+									"propName": "时蔬类",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "酒水",
+							"values": [
+								{
+									"value": "鹅岛",
+									"price": "22.0",
+									"propName": "酒水",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "茶位",
+							"values": [
+								{
+									"value": "茶位",
+									"price": "4.0",
+									"propName": "茶位",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "贪吃套餐",
+					"picUrl": "",
+					"price": "108.0",
+					"unit": "份",
+					"categoryName": "套餐",
+					"props": [
+						{
+							"name": "锅底",
+							"values": [
+								{
+									"value": "香辣卤水锅底",
+									"price": "38.0",
+									"propName": "锅底",
+									"isMul": true
+								},
+								{
+									"value": "正宗卤水锅底",
+									"price": "36.0",
+									"propName": "锅底",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "招牌狮头鹅类",
+							"values": [
+								{
+									"value": "嫩滑鹅血",
+									"price": "13.0",
+									"propName": "招牌狮头鹅类",
+									"isMul": true
+								},
+								{
+									"value": "狮头鹅鹅翅",
+									"price": "34.0",
+									"propName": "招牌狮头鹅类",
+									"isMul": true
+								},
+								{
+									"value": "一品脆鹅肠（大）",
+									"price": "48.0",
+									"propName": "招牌狮头鹅类",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "海鲜类",
+							"values": [
+								{
+									"value": "鲜鱿鱼",
+									"price": "28.0",
+									"propName": "海鲜类",
+									"isMul": true
+								},
+								{
+									"value": "乌鱼片",
+									"price": "28.0",
+									"propName": "海鲜类",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "肉类",
+							"values": [
+								{
+									"value": "金钱肚",
+									"price": "32.0",
+									"propName": "肉类",
+									"isMul": true
+								},
+								{
+									"value": "蟹柳",
+									"price": "16.0",
+									"propName": "肉类",
+									"isMul": true
+								},
+								{
+									"value": "汕头达濠鱼丸",
+									"price": "28.0",
+									"propName": "肉类",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "拼盘",
+							"values": [
+								{
+									"value": "王炸",
+									"price": "12.0",
+									"propName": "拼盘",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "时蔬类",
+							"values": [
+								{
+									"value": "蔬菜拼盘",
+									"price": "22.0",
+									"propName": "时蔬类",
+									"isMul": true
+								},
+								{
+									"value": "白萝卜",
+									"price": "8.0",
+									"propName": "时蔬类",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "主食",
+							"values": [
+								{
+									"value": "车仔面",
+									"price": "10.0",
+									"propName": "主食",
+									"isMul": true
+								},
+								{
+									"value": "广式猪肠粉",
+									"price": "8.0",
+									"propName": "主食",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "酒水类",
+							"values": [
+								{
+									"value": "茶位",
+									"price": "4.0",
+									"propName": "酒水类",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

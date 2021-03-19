@@ -1,0 +1,9827 @@
+{
+	"shopName": "中国兰州拉面同沙路店",
+	"shop_pic": "https://op.huanxiongdd.com:443/dd_op/attached/image/20200924/20200924142041-1000175-logo.jpg",
+	"categories": [
+		{
+			"name": "羊肉面",
+			"foods": [
+				{
+					"name": "羊肉水饺。",
+					"picUrl": "",
+					"price": "18",
+					"unit": "份",
+					"categoryName": "羊肉面",
+					"props": []
+				},
+				{
+					"name": "孜然羊肉拌面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200420225034374400.jpeg",
+					"price": "25",
+					"unit": "份",
+					"categoryName": "羊肉面",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加面一份",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "羊肉刀削面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/upload/400x400/20051114384451806039.jpg",
+					"price": "18",
+					"unit": "份",
+					"categoryName": "羊肉面",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加面一份",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "羊肉拉面。",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20190901175815274132.png",
+					"price": "18",
+					"unit": "份",
+					"categoryName": "羊肉面",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加面一份",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "羊肉泡馍",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200416214542161841.jpg",
+					"price": "23",
+					"unit": "份",
+					"categoryName": "羊肉面",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "葱爆羊肉拌面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/20160126/20160126180755-1139052-product_h_pic.jpg",
+					"price": "25",
+					"unit": "份",
+					"categoryName": "羊肉面",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加面一份",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "特色面",
+			"foods": [
+				{
+					"name": "加牛肉拉面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/upload/400x400/20051114395429597905.jpeg",
+					"price": "24",
+					"unit": "份",
+					"categoryName": "特色面",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加面一份",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "干拌面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200613111634781132.jpeg",
+					"price": "17",
+					"unit": "份",
+					"categoryName": "特色面",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加面一份",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "炸酱面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20190721172638969324.png",
+					"price": "17",
+					"unit": "份",
+					"categoryName": "特色面",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加面一份",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉凉面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20190628181257856388.png",
+					"price": "15",
+					"unit": "份",
+					"categoryName": "特色面",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加面一份",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉刀削面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20201205212821100509.jpeg",
+					"price": "12",
+					"unit": "份",
+					"categoryName": "特色面",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加面一份",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉拉面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20190628181148786561.png",
+					"price": "12",
+					"unit": "份",
+					"categoryName": "特色面",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加面一份",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉泡馍",
+					"picUrl": "http://imgcdn.huanxiongdd.com/upload/400x400/20051114333178114889.jpg",
+					"price": "19",
+					"unit": "份",
+					"categoryName": "特色面",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉炒刀削面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20191023195507606098.png",
+					"price": "17",
+					"unit": "份",
+					"categoryName": "特色面",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加面一份",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉炒拉面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20191023200049853292.png",
+					"price": "17",
+					"unit": "份",
+					"categoryName": "特色面",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加面一份",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉炒面片",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20191023200645668494.png",
+					"price": "22",
+					"unit": "份",
+					"categoryName": "特色面",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加面一份",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉烩面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20201006152052762782.jpg",
+					"price": "19",
+					"unit": "份",
+					"categoryName": "特色面",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加面一份",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "精品牛肉面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200119195317723615.jpg",
+					"price": "26",
+					"unit": "份",
+					"categoryName": "特色面",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加面一份",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧牛肉刀削面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20190705192437991582.png",
+					"price": "19",
+					"unit": "份",
+					"categoryName": "特色面",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加面一份",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧牛肉面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20201231232057940316.jpeg",
+					"price": "19",
+					"unit": "份",
+					"categoryName": "特色面",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加面一份",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "葱油饼",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20190923190732570564.png",
+					"price": "7",
+					"unit": "份",
+					"categoryName": "特色面",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加面一份",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "西红柿鸡蛋刀削面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/upload/400x400/20051115093686999930.jpg",
+					"price": "17",
+					"unit": "份",
+					"categoryName": "特色面",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加面一份",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "西红柿鸡蛋炒刀削",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200511232000138964.jpg",
+					"price": "17",
+					"unit": "份",
+					"categoryName": "特色面",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加面一份",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "西红柿鸡蛋炒面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20190328101214169991.png",
+					"price": "17",
+					"unit": "份",
+					"categoryName": "特色面",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加面一份",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "西红柿鸡蛋面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200729101050551686.jpeg",
+					"price": "17",
+					"unit": "份",
+					"categoryName": "特色面",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加面一份",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸菜刀削面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200826192931076838.jpeg",
+					"price": "16",
+					"unit": "份",
+					"categoryName": "特色面",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加面一份",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸菜牛肉面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20201031141658649674.jpeg",
+					"price": "16",
+					"unit": "份",
+					"categoryName": "特色面",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加面一份",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鸡蛋刀削面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20190609133002593975.jpg",
+					"price": "12",
+					"unit": "份",
+					"categoryName": "特色面",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加面一份",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鸡蛋拉面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20210106153053160663.jpeg",
+					"price": "12",
+					"unit": "份",
+					"categoryName": "特色面",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加面一份",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鸡蛋炒刀削面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/20160126/20160126180755-1139070-product_h_pic.jpg",
+					"price": "17",
+					"unit": "份",
+					"categoryName": "特色面",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加面一份",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鸡蛋炒拉面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200418122912569318.jpg",
+					"price": "17",
+					"unit": "份",
+					"categoryName": "特色面",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加面一份",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "麻辣刀削面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20190713195849813349.png",
+					"price": "18",
+					"unit": "份",
+					"categoryName": "特色面",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加面一份",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "麻辣牛肉面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200508103241099275.png",
+					"price": "18",
+					"unit": "份",
+					"categoryName": "特色面",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加面一份",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "特色拌面类",
+			"foods": [
+				{
+					"name": "土豆丝牛肉拌面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20170519110748984905.jpg",
+					"price": "18",
+					"unit": "份",
+					"categoryName": "特色拌面类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加面一份",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "土豆牛肉拌面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200313101307631061.jpg",
+					"price": "20",
+					"unit": "份",
+					"categoryName": "特色拌面类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加面一份",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "孜然牛肉拌面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20180202175838708711.png",
+					"price": "20",
+					"unit": "份",
+					"categoryName": "特色拌面类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加面一份",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "干饺",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20190629195943300599.png",
+					"price": "15",
+					"unit": "份",
+					"categoryName": "特色拌面类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "新疆拌面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200416170600897164.jpg",
+					"price": "22",
+					"unit": "份",
+					"categoryName": "特色拌面类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加面一份",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "水饺",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20190629195918356365.png",
+					"price": "15",
+					"unit": "份",
+					"categoryName": "特色拌面类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "番茄炒蛋拌面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20171027144113616621.jpg",
+					"price": "17",
+					"unit": "份",
+					"categoryName": "特色拌面类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加面一份",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧牛肉拌面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200925170248439316.jpeg",
+					"price": "20",
+					"unit": "份",
+					"categoryName": "特色拌面类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加面一份",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧茄子拌面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200417054653695794.jpeg",
+					"price": "18",
+					"unit": "份",
+					"categoryName": "特色拌面类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加面一份",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧鸡块拌面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20190510202032845351.jpg",
+					"price": "20",
+					"unit": "份",
+					"categoryName": "特色拌面类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加面一份",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "葱油拌面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20190705195357700691.png",
+					"price": "15",
+					"unit": "份",
+					"categoryName": "特色拌面类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加面一份",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "葱爆牛肉拌面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20170105125932012269.png",
+					"price": "20",
+					"unit": "份",
+					"categoryName": "特色拌面类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加面一份",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "蒜苔炒牛肉拌面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20171025164258020987.jpg",
+					"price": "18",
+					"unit": "份",
+					"categoryName": "特色拌面类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加面一份",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "蘑菇拌面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/upload/400x400/20051116252925671541.jpg",
+					"price": "18",
+					"unit": "份",
+					"categoryName": "特色拌面类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加面一份",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸辣土豆丝拌面。",
+					"picUrl": "",
+					"price": "16",
+					"unit": "份",
+					"categoryName": "特色拌面类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加面一份",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸辣白菜拌面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20190702185904759034.png",
+					"price": "16",
+					"unit": "份",
+					"categoryName": "特色拌面类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加面一份",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "青椒炒牛肉拌面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20170315093003830963.jpg",
+					"price": "18",
+					"unit": "份",
+					"categoryName": "特色拌面类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加面一份",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "炒饭类",
+			"foods": [
+				{
+					"name": "兰州炒饭",
+					"picUrl": "http://imgcdn.huanxiongdd.com/upload/400x400/20051115244055010195.jpg",
+					"price": "15",
+					"unit": "份",
+					"categoryName": "炒饭类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加饭",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉炒饭",
+					"picUrl": "http://imgcdn.huanxiongdd.com/upload/400x400/20051114384171952766.jpg",
+					"price": "13",
+					"unit": "份",
+					"categoryName": "炒饭类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加饭",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "蛋炒饭",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20190507094158294022.png",
+					"price": "12",
+					"unit": "份",
+					"categoryName": "炒饭类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加饭",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "特色盖浇饭类",
+			"foods": [
+				{
+					"name": "土豆丝牛肉饭",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200420112803639290.jpeg",
+					"price": "18",
+					"unit": "份",
+					"categoryName": "特色盖浇饭类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加饭",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "土豆烧牛肉饭",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20191023195624575795.png",
+					"price": "20",
+					"unit": "份",
+					"categoryName": "特色盖浇饭类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加饭",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "孜然牛肉饭",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20171122221226140878.png",
+					"price": "20",
+					"unit": "份",
+					"categoryName": "特色盖浇饭类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加饭",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "木耳炒牛肉饭",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20190429112859173708.jpg",
+					"price": "18",
+					"unit": "份",
+					"categoryName": "特色盖浇饭类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加饭",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "番茄炒蛋饭",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20191026123432729599.jpg",
+					"price": "18",
+					"unit": "份",
+					"categoryName": "特色盖浇饭类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加饭",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧牛肉饭",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20191023195723005394.png",
+					"price": "20",
+					"unit": "份",
+					"categoryName": "特色盖浇饭类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加饭",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧茄子牛肉饭",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20190507102906804665.jpg",
+					"price": "18",
+					"unit": "份",
+					"categoryName": "特色盖浇饭类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加饭",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧鸡块饭",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20201028210224136304.jpg",
+					"price": "20",
+					"unit": "份",
+					"categoryName": "特色盖浇饭类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加饭",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "葱爆牛肉饭",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20160728110707566757.jpg",
+					"price": "20",
+					"unit": "份",
+					"categoryName": "特色盖浇饭类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加饭",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "蒜台盖牛肉饭",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20191023195554919258.png",
+					"price": "18",
+					"unit": "份",
+					"categoryName": "特色盖浇饭类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加饭",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸辣白菜饭",
+					"picUrl": "http://imgcdn.huanxiongdd.com/upload/400x400/20051116255797470901.jpg",
+					"price": "16",
+					"unit": "份",
+					"categoryName": "特色盖浇饭类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加饭",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "青椒土豆丝饭",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20190429112859831201.png",
+					"price": "16",
+					"unit": "份",
+					"categoryName": "特色盖浇饭类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加饭",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "青椒炒牛肉饭",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20191023195828551003.png",
+					"price": "18",
+					"unit": "份",
+					"categoryName": "特色盖浇饭类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加饭",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "香菇盖牛肉饭",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20190923191153953081.png",
+					"price": "18",
+					"unit": "份",
+					"categoryName": "特色盖浇饭类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "量",
+							"values": [
+								{
+									"value": "加饭",
+									"price": "2",
+									"propName": "量",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "可口拌菜",
+			"foods": [
+				{
+					"name": "拌三丝",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20190507094158061779.jpg",
+					"price": "18",
+					"unit": "份",
+					"categoryName": "可口拌菜",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "拌土豆丝",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20190507094158838937.jpg",
+					"price": "18",
+					"unit": "份",
+					"categoryName": "可口拌菜",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "拌牛肉",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20190507094158162584.jpg",
+					"price": "45",
+					"unit": "份",
+					"categoryName": "可口拌菜",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "洋葱拌木耳",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20161125091857317176.jpg",
+					"price": "18",
+					"unit": "份",
+					"categoryName": "可口拌菜",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "蒜泥黄瓜",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20190514163657625091.jpg",
+					"price": "18",
+					"unit": "份",
+					"categoryName": "可口拌菜",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "青椒皮蛋",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20190507094158610098.jpg",
+					"price": "18",
+					"unit": "份",
+					"categoryName": "可口拌菜",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "汤类小吃",
+			"foods": [
+				{
+					"name": "牛肉夹馍",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20201130231849739921.jpg",
+					"price": "8",
+					"unit": "份",
+					"categoryName": "汤类小吃",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉粉丝汤",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20210107183935413309.jpeg",
+					"price": "12",
+					"unit": "份",
+					"categoryName": "汤类小吃",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "白素饼",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20170309210607501072.png",
+					"price": "2",
+					"unit": "份",
+					"categoryName": "汤类小吃",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "葱油饼。",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20191018114424311392.png",
+					"price": "7",
+					"unit": "份",
+					"categoryName": "汤类小吃",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "西红柿蛋花汤",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20160612161053940852.jpg",
+					"price": "12",
+					"unit": "份",
+					"categoryName": "汤类小吃",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍",
+									"price": "8",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "加肉一份",
+									"price": "11",
+									"propName": "小吃",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼",
+									"price": "7",
+									"propName": "小吃",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "民族特色",
+			"foods": [
+				{
+					"name": "土豆烧牛肉",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20201204212457942861.jpg",
+					"price": "45",
+					"unit": "份",
+					"categoryName": "民族特色",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "孜然牛肉",
+					"picUrl": "http://imgcdn.huanxiongdd.com/upload/400x400/20051114395252008695.jpg",
+					"price": "45",
+					"unit": "份",
+					"categoryName": "民族特色",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "尖椒炒牛肉",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20190705200323940686.png",
+					"price": "30",
+					"unit": "份",
+					"categoryName": "民族特色",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "新疆大盘鸡",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20170222103352348763.jpg",
+					"price": "100",
+					"unit": "份",
+					"categoryName": "民族特色",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "新疆小盘鸡",
+					"picUrl": "http://imgcdn.huanxiongdd.com/upload/400x400/20051114395207244691.jpeg",
+					"price": "88",
+					"unit": "份",
+					"categoryName": "民族特色",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "木耳炒牛肉",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20190507094157833523.jpg",
+					"price": "35",
+					"unit": "份",
+					"categoryName": "民族特色",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "清炒上海青",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20160926184240631343.jpg",
+					"price": "18",
+					"unit": "份",
+					"categoryName": "民族特色",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "番茄炒蛋",
+					"picUrl": "http://imgcdn.huanxiongdd.com/upload/400x400/20051114395819340093.jpg",
+					"price": "18",
+					"unit": "份",
+					"categoryName": "民族特色",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧土豆",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20190323002429539452.jpg",
+					"price": "25",
+					"unit": "份",
+					"categoryName": "民族特色",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧牛肉",
+					"picUrl": "http://imgcdn.huanxiongdd.com/upload/400x400/20051114395970588868.jpg",
+					"price": "45",
+					"unit": "份",
+					"categoryName": "民族特色",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "葱爆牛肉",
+					"picUrl": "http://imgcdn.huanxiongdd.com/upload/400x400/20051114400127996561.jpeg",
+					"price": "45",
+					"unit": "份",
+					"categoryName": "民族特色",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "蒜台牛肉",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20170113011310487092.jpg",
+					"price": "30",
+					"unit": "份",
+					"categoryName": "民族特色",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "蘑菇炒牛肉",
+					"picUrl": "http://imgcdn.huanxiongdd.com/upload/400x400/20051115102012965514.jpg",
+					"price": "35",
+					"unit": "份",
+					"categoryName": "民族特色",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸辣土豆丝",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20190308095119911247.jpg",
+					"price": "18",
+					"unit": "份",
+					"categoryName": "民族特色",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸辣白菜",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20190507094157358170.jpg",
+					"price": "18",
+					"unit": "份",
+					"categoryName": "民族特色",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "青海辣子鸡块",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20161020000731269714.jpg",
+					"price": "50",
+					"unit": "份",
+					"categoryName": "民族特色",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鱼香茄子",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20190507102906804665.jpg",
+					"price": "25",
+					"unit": "份",
+					"categoryName": "民族特色",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "饮料",
+							"values": [
+								{
+									"value": "芬达/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "可口可乐/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧/罐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶可乐",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶雪碧",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "玻璃瓶芬达",
+									"price": "2",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "豆奶",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								},
+								{
+									"value": "百事可乐",
+									"price": "3",
+									"propName": "饮料",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "饮料自取",
+			"foods": [
+				{
+					"name": "加多宝",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20190702182430715425.png",
+					"price": "5",
+					"unit": "份",
+					"categoryName": "饮料自取",
+					"props": []
+				},
+				{
+					"name": "动卡",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20190702182459446120.png",
+					"price": "5",
+					"unit": "份",
+					"categoryName": "饮料自取",
+					"props": []
+				},
+				{
+					"name": "可乐瓶装",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20190702183043661367.png",
+					"price": "2",
+					"unit": "份",
+					"categoryName": "饮料自取",
+					"props": []
+				},
+				{
+					"name": "可乐罐装",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20190702182902636579.png",
+					"price": "3",
+					"unit": "份",
+					"categoryName": "饮料自取",
+					"props": []
+				},
+				{
+					"name": "矿泉水",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20190702183405299650.png",
+					"price": "2",
+					"unit": "份",
+					"categoryName": "饮料自取",
+					"props": []
+				},
+				{
+					"name": "芬达瓶装",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20190702183136136335.png",
+					"price": "2",
+					"unit": "份",
+					"categoryName": "饮料自取",
+					"props": []
+				},
+				{
+					"name": "芬达罐装",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20190702183433908067.png",
+					"price": "3",
+					"unit": "份",
+					"categoryName": "饮料自取",
+					"props": []
+				},
+				{
+					"name": "豆奶",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20190702182933400888.png",
+					"price": "3",
+					"unit": "份",
+					"categoryName": "饮料自取",
+					"props": []
+				},
+				{
+					"name": "雪碧瓶装",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20190702183212076666.png",
+					"price": "2",
+					"unit": "份",
+					"categoryName": "饮料自取",
+					"props": []
+				},
+				{
+					"name": "雪碧罐装",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20190702183457112482.png",
+					"price": "3",
+					"unit": "份",
+					"categoryName": "饮料自取",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "牛羊杂",
+			"foods": [
+				{
+					"name": "羊杂面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20190831154932681111.jpg",
+					"price": "25",
+					"unit": "份",
+					"categoryName": "牛羊杂",
+					"props": []
+				},
+				{
+					"name": "牛杂面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20201228111232480125.jpg",
+					"price": "22",
+					"unit": "份",
+					"categoryName": "牛羊杂",
+					"props": []
+				},
+				{
+					"name": "牛杂汤",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20210102231014854354.jpeg",
+					"price": "15",
+					"unit": "份",
+					"categoryName": "牛羊杂",
+					"props": []
+				},
+				{
+					"name": "羊杂汤",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20180905130220198464.png",
+					"price": "18",
+					"unit": "份",
+					"categoryName": "牛羊杂",
+					"props": []
+				},
+				{
+					"name": "拌牛杂",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20170209163019044381.jpg",
+					"price": "40",
+					"unit": "份",
+					"categoryName": "牛羊杂",
+					"props": []
+				},
+				{
+					"name": "拌羊杂",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200427000105258913.jpeg",
+					"price": "45",
+					"unit": "份",
+					"categoryName": "牛羊杂",
+					"props": []
+				},
+				{
+					"name": "红烧牛杂",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20190602092749226638.jpg",
+					"price": "40",
+					"unit": "份",
+					"categoryName": "牛羊杂",
+					"props": []
+				},
+				{
+					"name": "红烧羊杂",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20171115141753195335.jpg",
+					"price": "45",
+					"unit": "份",
+					"categoryName": "牛羊杂",
+					"props": []
+				},
+				{
+					"name": "牛杂拌面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200803212811569876.png",
+					"price": "25",
+					"unit": "份",
+					"categoryName": "牛羊杂",
+					"props": []
+				},
+				{
+					"name": "羊杂拌面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200725113347288985.jpeg",
+					"price": "28",
+					"unit": "份",
+					"categoryName": "牛羊杂",
+					"props": []
+				}
+			]
+		}
+	]
+}

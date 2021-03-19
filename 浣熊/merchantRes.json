@@ -1,0 +1,5104 @@
+{
+	"shopName": "重荣小面银田店",
+	"shop_pic": "https://op.diandianwaimai.com:443/dd_op/attached/image/20210119/20210119015537-41468-logo.jpg",
+	"categories": [
+		{
+			"name": "新品重庆粉蒸格格",
+			"foods": [
+				{
+					"name": "粉蒸牛肉",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210121003137652876.png",
+					"price": "25",
+					"unit": "份",
+					"categoryName": "新品重庆粉蒸格格",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "米饭",
+									"price": "0",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "粉蒸羊肉",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210304193706078602.png",
+					"price": "25",
+					"unit": "份",
+					"categoryName": "新品重庆粉蒸格格",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "米饭",
+									"price": "0",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "粉蒸五花肉",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210119081959746621.png",
+					"price": "25",
+					"unit": "份",
+					"categoryName": "新品重庆粉蒸格格",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "米饭",
+									"price": "0",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "粉蒸排骨",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210119082027534908.png",
+					"price": "25",
+					"unit": "份",
+					"categoryName": "新品重庆粉蒸格格",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "米饭",
+									"price": "0",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "粉蒸肥肠",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210121003510565171.png",
+					"price": "25",
+					"unit": "份",
+					"categoryName": "新品重庆粉蒸格格",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "米饭",
+									"price": "0",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "汤面系列",
+			"foods": [
+				{
+					"name": "海鲜面",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210119140522523982.png",
+					"price": "20",
+					"unit": "份",
+					"categoryName": "汤面系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "麻辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "免辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": "0",
+									"propName": "份量",
+									"isMul": 0
+								},
+								{
+									"value": "大份",
+									"price": "4",
+									"propName": "份量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "招牌牛肉面",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210119140153491131.png",
+					"price": "17",
+					"unit": "份",
+					"categoryName": "汤面系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "麻辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "免辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": "0",
+									"propName": "份量",
+									"isMul": 0
+								},
+								{
+									"value": "大份",
+									"price": "4",
+									"propName": "份量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "招牌肥肠面",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20191003221212688484.jpg",
+					"price": "17",
+					"unit": "份",
+					"categoryName": "汤面系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "麻辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "免辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": "0",
+									"propName": "份量",
+									"isMul": 0
+								},
+								{
+									"value": "大份",
+									"price": "4",
+									"propName": "份量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧牛杂面",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200928221557965637.jpg",
+					"price": "17",
+					"unit": "份",
+					"categoryName": "汤面系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "麻辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "免辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": "0",
+									"propName": "份量",
+									"isMul": 0
+								},
+								{
+									"value": "大份",
+									"price": "4",
+									"propName": "份量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧排骨面",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20190429104133808999.png",
+					"price": "17",
+					"unit": "份",
+					"categoryName": "汤面系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "麻辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "免辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": "0",
+									"propName": "份量",
+									"isMul": 0
+								},
+								{
+									"value": "大份",
+									"price": "4",
+									"propName": "份量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "汤酸萝卜鸡杂面",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210119140628205377.png",
+					"price": "15",
+					"unit": "份",
+					"categoryName": "汤面系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "麻辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "免辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": "0",
+									"propName": "份量",
+									"isMul": 0
+								},
+								{
+									"value": "大份",
+									"price": "4",
+									"propName": "份量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "汤豌杂面",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210104131332655236.jpg",
+					"price": "15",
+					"unit": "份",
+					"categoryName": "汤面系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "麻辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "免辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": "0",
+									"propName": "份量",
+									"isMul": 0
+								},
+								{
+									"value": "大份",
+									"price": "4",
+									"propName": "份量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "汤杂酱面",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210104131241779694.jpg",
+					"price": "13",
+					"unit": "份",
+					"categoryName": "汤面系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "麻辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "免辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": "0",
+									"propName": "份量",
+									"isMul": 0
+								},
+								{
+									"value": "大份",
+									"price": "4",
+									"propName": "份量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "汤豌豆面",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210120145601504801.png",
+					"price": "15",
+					"unit": "份",
+					"categoryName": "汤面系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "麻辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "免辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": "0",
+									"propName": "份量",
+									"isMul": 0
+								},
+								{
+									"value": "大份",
+									"price": "4",
+									"propName": "份量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "西红柿鸡蛋面",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200827171120166198.jpg",
+					"price": "15",
+					"unit": "份",
+					"categoryName": "汤面系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "麻辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "免辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": "0",
+									"propName": "份量",
+									"isMul": 0
+								},
+								{
+									"value": "大份",
+									"price": "4",
+									"propName": "份量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "麻辣重庆小面",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200519104756375475.jpg",
+					"price": "10",
+					"unit": "份",
+					"categoryName": "汤面系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "麻辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": "0",
+									"propName": "份量",
+									"isMul": 0
+								},
+								{
+									"value": "大份",
+									"price": "4",
+									"propName": "份量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "干拌面系列",
+			"foods": [
+				{
+					"name": "干拌豌杂面",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210104131307807653.jpg",
+					"price": "15",
+					"unit": "份",
+					"categoryName": "干拌面系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "麻辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "免辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": "0",
+									"propName": "份量",
+									"isMul": 0
+								},
+								{
+									"value": "大份",
+									"price": "4",
+									"propName": "份量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "干拌豌豆面",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20201110093649492347.png",
+					"price": "13",
+					"unit": "份",
+					"categoryName": "干拌面系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "麻辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "免辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": "0",
+									"propName": "份量",
+									"isMul": 0
+								},
+								{
+									"value": "大份",
+									"price": "4",
+									"propName": "份量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "干拌杂酱面",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200618194906150926.jpg",
+					"price": "13",
+					"unit": "份",
+					"categoryName": "干拌面系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "麻辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "免辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": "0",
+									"propName": "份量",
+									"isMul": 0
+								},
+								{
+									"value": "大份",
+									"price": "4",
+									"propName": "份量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "干拌酸萝卜鸡杂面",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170416222312627643.jpg",
+					"price": "15",
+					"unit": "份",
+					"categoryName": "干拌面系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "麻辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "免辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": "0",
+									"propName": "份量",
+									"isMul": 0
+								},
+								{
+									"value": "大份",
+									"price": "4",
+									"propName": "份量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "米线系列",
+			"foods": [
+				{
+					"name": "招牌海鲜米线",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210121115313003868.png",
+					"price": "20",
+					"unit": "份",
+					"categoryName": "米线系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "麻辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "免辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": "0",
+									"propName": "份量",
+									"isMul": 0
+								},
+								{
+									"value": "大份",
+									"price": "4",
+									"propName": "份量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "招牌牛肉米线",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20190828224044400285.png",
+					"price": "17",
+					"unit": "份",
+					"categoryName": "米线系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "麻辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "免辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": "0",
+									"propName": "份量",
+									"isMul": 0
+								},
+								{
+									"value": "大份",
+									"price": "4",
+									"propName": "份量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧牛杂米线",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210121115338171292.png",
+					"price": "17",
+					"unit": "份",
+					"categoryName": "米线系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "麻辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "免辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": "0",
+									"propName": "份量",
+									"isMul": 0
+								},
+								{
+									"value": "大份",
+									"price": "4",
+									"propName": "份量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "招牌肥肠米线",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20191008091402761771.png",
+					"price": "17",
+					"unit": "份",
+					"categoryName": "米线系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "麻辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "免辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": "0",
+									"propName": "份量",
+									"isMul": 0
+								},
+								{
+									"value": "大份",
+									"price": "4",
+									"propName": "份量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧排骨米线",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20191112112837027478.jpeg",
+					"price": "17",
+					"unit": "份",
+					"categoryName": "米线系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "麻辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "免辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": "0",
+									"propName": "份量",
+									"isMul": 0
+								},
+								{
+									"value": "大份",
+									"price": "4",
+									"propName": "份量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸萝卜鸡杂米线",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210121115400106592.png",
+					"price": "15",
+					"unit": "份",
+					"categoryName": "米线系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "麻辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "免辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": "0",
+									"propName": "份量",
+									"isMul": 0
+								},
+								{
+									"value": "大份",
+									"price": "4",
+									"propName": "份量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "汤杂酱米线",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20191008091445355478.png",
+					"price": "13",
+					"unit": "份",
+					"categoryName": "米线系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "麻辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "免辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": "0",
+									"propName": "份量",
+									"isMul": 0
+								},
+								{
+									"value": "大份",
+									"price": "4",
+									"propName": "份量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "汤豌豆米线",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20180518015609384327.jpg",
+					"price": "13",
+					"unit": "份",
+					"categoryName": "米线系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "麻辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "免辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": "0",
+									"propName": "份量",
+									"isMul": 0
+								},
+								{
+									"value": "大份",
+									"price": "4",
+									"propName": "份量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "汤豌杂米线",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20171004130257425357.jpg",
+					"price": "15",
+					"unit": "份",
+					"categoryName": "米线系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "麻辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "免辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": "0",
+									"propName": "份量",
+									"isMul": 0
+								},
+								{
+									"value": "大份",
+									"price": "4",
+									"propName": "份量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "西红柿鸡蛋米线",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170227233811986448.jpg",
+					"price": "15",
+					"unit": "份",
+					"categoryName": "米线系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "麻辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "免辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": "0",
+									"propName": "份量",
+									"isMul": 0
+								},
+								{
+									"value": "大份",
+									"price": "4",
+									"propName": "份量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "素米线(芽菜米线)",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210121212650292241.png",
+					"price": "10",
+					"unit": "份",
+					"categoryName": "米线系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "麻辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "免辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": "0",
+									"propName": "份量",
+									"isMul": 0
+								},
+								{
+									"value": "大份",
+									"price": "4",
+									"propName": "份量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "粗米线系列",
+			"foods": [
+				{
+					"name": "海鲜粗米线",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210221083233176846.png",
+					"price": "20",
+					"unit": "份",
+					"categoryName": "粗米线系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "麻辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "免辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": "0",
+									"propName": "份量",
+									"isMul": 0
+								},
+								{
+									"value": "大份",
+									"price": "4",
+									"propName": "份量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸萝卜鸡杂粗米线",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210121115511069739.png",
+					"price": "15",
+					"unit": "份",
+					"categoryName": "粗米线系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "麻辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "免辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": "0",
+									"propName": "份量",
+									"isMul": 0
+								},
+								{
+									"value": "大份",
+									"price": "4",
+									"propName": "份量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "招牌牛肉粗米线",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210121115526475908.png",
+					"price": "17",
+					"unit": "份",
+					"categoryName": "粗米线系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "麻辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "免辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": "0",
+									"propName": "份量",
+									"isMul": 0
+								},
+								{
+									"value": "大份",
+									"price": "4",
+									"propName": "份量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧牛杂粗米线",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210121115539788493.png",
+					"price": "17",
+					"unit": "份",
+					"categoryName": "粗米线系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "麻辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "免辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": "0",
+									"propName": "份量",
+									"isMul": 0
+								},
+								{
+									"value": "大份",
+									"price": "4",
+									"propName": "份量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧排骨粗米线",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210121115555107632.png",
+					"price": "17",
+					"unit": "份",
+					"categoryName": "粗米线系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "麻辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "免辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": "0",
+									"propName": "份量",
+									"isMul": 0
+								},
+								{
+									"value": "大份",
+									"price": "4",
+									"propName": "份量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "招牌肥肠粗米线",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210121115742911361.png",
+					"price": "17",
+					"unit": "份",
+					"categoryName": "粗米线系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "麻辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "免辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": "0",
+									"propName": "份量",
+									"isMul": 0
+								},
+								{
+									"value": "大份",
+									"price": "4",
+									"propName": "份量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "西红柿鸡蛋粗米线",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210121230851977278.png",
+					"price": "15",
+					"unit": "份",
+					"categoryName": "粗米线系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "麻辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "免辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": "0",
+									"propName": "份量",
+									"isMul": 0
+								},
+								{
+									"value": "大份",
+									"price": "4",
+									"propName": "份量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "干拌粗米线系列",
+			"foods": [
+				{
+					"name": "干拌豌杂粗米线",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210127095251434296.png",
+					"price": "15",
+					"unit": "份",
+					"categoryName": "干拌粗米线系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "麻辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "免辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": "0",
+									"propName": "份量",
+									"isMul": 0
+								},
+								{
+									"value": "大份",
+									"price": "4",
+									"propName": "份量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "干拌鸡杂粗米线",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210121231102414225.png",
+					"price": "15",
+					"unit": "份",
+					"categoryName": "干拌粗米线系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "麻辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "免辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": "0",
+									"propName": "份量",
+									"isMul": 0
+								},
+								{
+									"value": "大份",
+									"price": "4",
+									"propName": "份量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "干拌杂酱粗米线",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20191108104610063319.png",
+					"price": "13",
+					"unit": "份",
+					"categoryName": "干拌粗米线系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "麻辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "免辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": "0",
+									"propName": "份量",
+									"isMul": 0
+								},
+								{
+									"value": "大份",
+									"price": "4",
+									"propName": "份量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "干拌豌豆粗米线",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210121231206957115.png",
+					"price": "13",
+					"unit": "份",
+					"categoryName": "干拌粗米线系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "麻辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "免辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": "0",
+									"propName": "份量",
+									"isMul": 0
+								},
+								{
+									"value": "大份",
+									"price": "4",
+									"propName": "份量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "抄手系列",
+			"foods": [
+				{
+					"name": "老麻抄手",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200720160347683395.png",
+					"price": "14",
+					"unit": "份",
+					"categoryName": "抄手系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": "0",
+									"propName": "份量",
+									"isMul": 0
+								},
+								{
+									"value": "大份",
+									"price": "4",
+									"propName": "份量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "清汤抄手",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20201120185408846543.jpg",
+					"price": "14",
+					"unit": "份",
+					"categoryName": "抄手系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": "0",
+									"propName": "份量",
+									"isMul": 0
+								},
+								{
+									"value": "大份",
+									"price": "4",
+									"propName": "份量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "抄手面",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170509163440609487.jpg",
+					"price": "14",
+					"unit": "份",
+					"categoryName": "抄手系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "麻辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "免辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": "0",
+									"propName": "份量",
+									"isMul": 0
+								},
+								{
+									"value": "大份",
+									"price": "4",
+									"propName": "份量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "干捞红油抄手",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170107135629725387.jpg",
+					"price": "14",
+					"unit": "份",
+					"categoryName": "抄手系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": "0",
+									"propName": "份量",
+									"isMul": 0
+								},
+								{
+									"value": "大份",
+									"price": "4",
+									"propName": "份量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "酸辣系列",
+			"foods": [
+				{
+					"name": "酸辣面",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20190727233808424795.jpg",
+					"price": "10",
+					"unit": "份",
+					"categoryName": "酸辣系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "麻辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "免辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": "0",
+									"propName": "份量",
+									"isMul": 0
+								},
+								{
+									"value": "大份",
+									"price": "4",
+									"propName": "份量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸辣粗米线",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210129182033961681.png",
+					"price": "10",
+					"unit": "份",
+					"categoryName": "酸辣系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "麻辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "免辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": "0",
+									"propName": "份量",
+									"isMul": 0
+								},
+								{
+									"value": "大份",
+									"price": "4",
+									"propName": "份量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸辣细米线",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20190825101436574666.png",
+					"price": "10",
+					"unit": "份",
+					"categoryName": "酸辣系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "麻辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "免辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": "0",
+									"propName": "份量",
+									"isMul": 0
+								},
+								{
+									"value": "大份",
+									"price": "4",
+									"propName": "份量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "重庆酸辣粉",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20201007111642392084.jpg",
+					"price": "10",
+					"unit": "份",
+					"categoryName": "酸辣系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "微辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "麻辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								},
+								{
+									"value": "免辣",
+									"price": "0",
+									"propName": "口味",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": "0",
+									"propName": "份量",
+									"isMul": 0
+								},
+								{
+									"value": "大份",
+									"price": "4",
+									"propName": "份量",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "红烧菜系列",
+			"foods": [
+				{
+					"name": "红烧牛肉",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200515211216860819.png",
+					"price": "22",
+					"unit": "份",
+					"categoryName": "红烧菜系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧排骨",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200906001544915237.jpg",
+					"price": "22",
+					"unit": "份",
+					"categoryName": "红烧菜系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧牛杂",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200928221557965637.jpg",
+					"price": "22",
+					"unit": "份",
+					"categoryName": "红烧菜系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "凉菜系列",
+			"foods": [
+				{
+					"name": "川味红油牛肚",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210228182156706302.png",
+					"price": "20",
+					"unit": "份",
+					"categoryName": "凉菜系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "米饭",
+									"price": "0",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "张飞麻辣牛肉",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210228181941815090.png",
+					"price": "25",
+					"unit": "份",
+					"categoryName": "凉菜系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "米饭",
+									"price": "0",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "夫妻肺片",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20181218095333669430.png",
+					"price": "25",
+					"unit": "份",
+					"categoryName": "凉菜系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "米饭",
+									"price": "0",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "川味口水鸡",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20190620232429891076.jpg",
+					"price": "18",
+					"unit": "份",
+					"categoryName": "凉菜系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "米饭",
+									"price": "0",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "凉拌青瓜",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20201014153925839115.jpeg",
+					"price": "12",
+					"unit": "份",
+					"categoryName": "凉菜系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "米饭",
+									"price": "0",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "凉拌猪心",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200606200036601688.jpg",
+					"price": "18",
+					"unit": "份",
+					"categoryName": "凉菜系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "米饭",
+									"price": "0",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红油猪耳",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20191206163232441947.jpg",
+					"price": "18",
+					"unit": "份",
+					"categoryName": "凉菜系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "米饭",
+									"price": "0",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "凉拌折耳根",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20180917140536236006.jpg",
+					"price": "12",
+					"unit": "份",
+					"categoryName": "凉菜系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "凉拌皮蛋",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20191205163729236244.jpg",
+					"price": "12",
+					"unit": "份",
+					"categoryName": "凉菜系列",
+					"props": [
+						{
+							"name": "加",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": "2",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "可乐",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "维他奶",
+									"price": "4",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "美年达",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "雪碧",
+									"price": "3",
+									"propName": "加",
+									"isMul": 1
+								},
+								{
+									"value": "冰粉粉",
+									"price": "6",
+									"propName": "加",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "小吃类",
+			"foods": [
+				{
+					"name": "煎蛋",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20201029202620507576.png",
+					"price": "2",
+					"unit": "份",
+					"categoryName": "小吃类",
+					"props": []
+				},
+				{
+					"name": "手工红糖冰粉",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210228181906457470.png",
+					"price": "6",
+					"unit": "份",
+					"categoryName": "小吃类",
+					"props": []
+				},
+				{
+					"name": "白灼青菜",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20190827004112836737.png",
+					"price": "10",
+					"unit": "份",
+					"categoryName": "小吃类",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "饮料",
+			"foods": [
+				{
+					"name": "纯悦矿泉水",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210126175456581059.jpg",
+					"price": "2",
+					"unit": "份",
+					"categoryName": "饮料",
+					"props": []
+				},
+				{
+					"name": "王老吉",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/20150312/20150312162017-1076843-product_h_pic.gif",
+					"price": "5",
+					"unit": "份",
+					"categoryName": "饮料",
+					"props": []
+				},
+				{
+					"name": "芬达",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20201125140456787498.png",
+					"price": "3",
+					"unit": "份",
+					"categoryName": "饮料",
+					"props": []
+				},
+				{
+					"name": "美年达瓶",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20201104101829791090.jpg",
+					"price": "3",
+					"unit": "份",
+					"categoryName": "饮料",
+					"props": []
+				},
+				{
+					"name": "可乐",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20190627015920596394.jpg",
+					"price": "3",
+					"unit": "份",
+					"categoryName": "饮料",
+					"props": []
+				},
+				{
+					"name": "雪碧瓶装",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210124170903290944.jpg",
+					"price": "3",
+					"unit": "份",
+					"categoryName": "饮料",
+					"props": []
+				},
+				{
+					"name": "维他奶",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200409114922688726.png",
+					"price": "4",
+					"unit": "份",
+					"categoryName": "饮料",
+					"props": []
+				},
+				{
+					"name": "天地壹号",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200614172902684492.png",
+					"price": "6",
+					"unit": "份",
+					"categoryName": "饮料",
+					"props": []
+				},
+				{
+					"name": "维他奶瓶装",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210109172325605915.png",
+					"price": "4",
+					"unit": "份",
+					"categoryName": "饮料",
+					"props": []
+				},
+				{
+					"name": "可乐罐装",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210107161502242929.jpg",
+					"price": "4",
+					"unit": "份",
+					"categoryName": "饮料",
+					"props": []
+				},
+				{
+					"name": "雪碧罐装",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200303224154614550.jpg",
+					"price": "4",
+					"unit": "份",
+					"categoryName": "饮料",
+					"props": []
+				},
+				{
+					"name": "土豪打赏",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170320233449073858.jpg",
+					"price": "0.88",
+					"unit": "份",
+					"categoryName": "饮料",
+					"props": []
+				},
+				{
+					"name": "可乐玻璃瓶",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210303113954779099.jpg",
+					"price": "2",
+					"unit": "份",
+					"categoryName": "饮料",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "米饭",
+			"foods": [
+				{
+					"name": "米饭",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20201028202303562034.jpg",
+					"price": "3",
+					"unit": "份",
+					"categoryName": "米饭",
+					"props": []
+				}
+			]
+		}
+	]
+}

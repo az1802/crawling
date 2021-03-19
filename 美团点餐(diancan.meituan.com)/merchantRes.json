@@ -1,0 +1,2256 @@
+{
+	"shopName": "简饮择食",
+	"categories": [
+		{
+			"name": "早餐（套餐）",
+			"foods": [
+				{
+					"name": "早）烧鸭汤粉+饮品",
+					"picUrl": "http://p0.meituan.net/erpbossapi/88622a11e9caa5f8da7fa89680a370a5175531.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "早餐（套餐）",
+					"props": []
+				},
+				{
+					"name": "早）猪杂汤河粉+饮品",
+					"picUrl": "http://p0.meituan.net/erpbossapi/406fae2b5c35d6249dfdc5d29d9516f7147534.jpg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "早餐（套餐）",
+					"props": []
+				},
+				{
+					"name": "早）猪肝瘦肉汤米粉+饮品",
+					"picUrl": "http://p0.meituan.net/erpbossapi/61ac38d878c7f8c358c79e3e444197b1134100.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "早餐（套餐）",
+					"props": []
+				},
+				{
+					"name": "早）瘦肉汤河粉+饮品",
+					"picUrl": "http://p1.meituan.net/erpbossapi/1707f96a7fde93665ad6da74e734d250145062.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "早餐（套餐）",
+					"props": []
+				},
+				{
+					"name": "早）榨菜肉丝汤米粉+饮品",
+					"picUrl": "http://p1.meituan.net/erpbossapi/d18aaee47f1424face69bf0f0afb3d7a141865.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "早餐（套餐）",
+					"props": []
+				},
+				{
+					"name": "早）牛腩汤河粉+饮品",
+					"picUrl": "http://p1.meituan.net/erpbossapi/07745ad9510ce10eba1b857b08bbcbc9213308.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "早餐（套餐）",
+					"props": []
+				},
+				{
+					"name": "早）净云吞+饮品",
+					"picUrl": "http://p0.meituan.net/erpbossapi/40e168dea49de707bed2f0537a94ea80126633.jpg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "早餐（套餐）",
+					"props": []
+				},
+				{
+					"name": "早）云吞面+饮品",
+					"picUrl": "http://p0.meituan.net/erpbossapi/0b42ca4b0a41013bb0ee962d0a74afdd142707.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "早餐（套餐）",
+					"props": []
+				},
+				{
+					"name": "早）鱼骨汤米粉+饮品",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "早餐（套餐）",
+					"props": []
+				},
+				{
+					"name": "早）鱼片汤米粉+饮品",
+					"picUrl": "http://p1.meituan.net/erpbossapi/16138f7ed3b2783b22de18e62eceb0d1135772.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "早餐（套餐）",
+					"props": []
+				},
+				{
+					"name": "早）腿蛋公仔面+饮品",
+					"picUrl": "http://p0.meituan.net/erpbossapi/c6d7c0342a3193de2a16793eadc78a9a179429.jpg",
+					"price": 24,
+					"unit": "份",
+					"categoryName": "早餐（套餐）",
+					"props": []
+				},
+				{
+					"name": "早）餐蛋公仔面+饮品",
+					"picUrl": "http://p1.meituan.net/erpbossapi/cbdc299ae64ca4c31dc676f7353bdb44179686.jpg",
+					"price": 24,
+					"unit": "份",
+					"categoryName": "早餐（套餐）",
+					"props": []
+				},
+				{
+					"name": "早）牛腩捞面+饮品",
+					"picUrl": "http://p0.meituan.net/erpbossapi/548e3cb70a826b9a280ba14009e5aaa3155915.jpg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "早餐（套餐）",
+					"props": []
+				},
+				{
+					"name": "早）叉烧汤面+饮品",
+					"picUrl": "http://p0.meituan.net/erpbossapi/3edac129ab8c0b91ca8c2692cb933ff0224843.jpg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "早餐（套餐）",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "早餐",
+			"foods": [
+				{
+					"name": "早）烧鸭汤粉",
+					"picUrl": "http://p0.meituan.net/erpbossapi/1717b40c9deddba8948427cab722860e503826.jpg",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "早餐",
+					"props": []
+				},
+				{
+					"name": "煎蛋",
+					"picUrl": "http://p0.meituan.net/erpbossapi/421fbad09155ce44b5c5e03cef46d765149466.jpg",
+					"price": 3,
+					"unit": "个",
+					"categoryName": "早餐",
+					"props": []
+				},
+				{
+					"name": "早）叉烧汤面",
+					"picUrl": "http://p0.meituan.net/erpbossapi/79479af8c842193fa242330f9ccf72ac222913.jpg",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "早餐",
+					"props": []
+				},
+				{
+					"name": "早）鱼片汤米粉",
+					"picUrl": "http://p0.meituan.net/erpbossapi/9421921f8ac84ae92ba5e400dffede9a132679.jpg",
+					"price": 11,
+					"unit": "份",
+					"categoryName": "早餐",
+					"props": []
+				},
+				{
+					"name": "早）鱼骨汤米粉",
+					"picUrl": "http://p0.meituan.net/erpbossapi/5b6c2e5b3b131b714422a6be90900c35131610.jpg",
+					"price": 11,
+					"unit": "份",
+					"categoryName": "早餐",
+					"props": []
+				},
+				{
+					"name": "早）云吞面",
+					"picUrl": "http://p0.meituan.net/erpbossapi/34a5d75e525589137595f3df7d5071eb159783.jpg",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "早餐",
+					"props": []
+				},
+				{
+					"name": "早）净云吞",
+					"picUrl": "http://p0.meituan.net/erpbossapi/a9b16af3dad08b13cc623a9f8b853c84143285.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "早餐",
+					"props": []
+				},
+				{
+					"name": "早）牛腩汤河粉",
+					"picUrl": "http://p0.meituan.net/erpbossapi/9a706b8193d124222fa5cad6f2099a0c170334.jpg",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "早餐",
+					"props": []
+				},
+				{
+					"name": "早）牛腩捞面",
+					"picUrl": "http://p0.meituan.net/erpbossapi/e444f7e2d8653d1cfd539d37ccaf2399161141.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "早餐",
+					"props": []
+				},
+				{
+					"name": "早）瘦肉汤面",
+					"picUrl": "http://p0.meituan.net/erpbossapi/845b96c918fa72d4262c6d6587375c5c120815.jpg",
+					"price": 11,
+					"unit": "份",
+					"categoryName": "早餐",
+					"props": []
+				},
+				{
+					"name": "早）猪肝瘦肉汤面",
+					"picUrl": "http://p0.meituan.net/erpbossapi/5ccd340500d988fca62f5bdc8a4573d2146616.jpg",
+					"price": 11,
+					"unit": "份",
+					"categoryName": "早餐",
+					"props": []
+				},
+				{
+					"name": "早）切鸡汤面",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "早餐",
+					"props": []
+				},
+				{
+					"name": "早）猪杂汤米粉",
+					"picUrl": "http://p0.meituan.net/erpbossapi/4ef331b770bd649e21ba43b341ec226a451580.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "早餐",
+					"props": []
+				},
+				{
+					"name": "早）榨菜肉丝汤米粉",
+					"picUrl": "http://p0.meituan.net/erpbossapi/c5226fa6b6bc81526b68dfe818fb01bb550676.jpg",
+					"price": 11,
+					"unit": "份",
+					"categoryName": "早餐",
+					"props": []
+				},
+				{
+					"name": "早）餐蛋公仔面",
+					"picUrl": "http://p0.meituan.net/erpbossapi/7a2c038688e6b9d1ea09ef878fbe294d91650.jpg",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "早餐",
+					"props": []
+				},
+				{
+					"name": "早）腿蛋公仔面",
+					"picUrl": "http://p0.meituan.net/erpbossapi/4781146473140e823f6509f23ecb364991377.jpg",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "早餐",
+					"props": []
+				},
+				{
+					"name": "斋汤粉",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "早餐",
+					"props": []
+				},
+				{
+					"name": "早）咸蛋",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 3,
+					"unit": "只",
+					"categoryName": "早餐",
+					"props": []
+				},
+				{
+					"name": "早）鱼片粥",
+					"picUrl": "http://p0.meituan.net/erpbossapi/5f09c413e7b155cf6ffb09262158ea0d104820.jpg",
+					"price": 11,
+					"unit": "份",
+					"categoryName": "早餐",
+					"props": []
+				},
+				{
+					"name": "早）瘦肉粥",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 11,
+					"unit": "份",
+					"categoryName": "早餐",
+					"props": []
+				},
+				{
+					"name": "早）猪肝瘦肉粥",
+					"picUrl": "http://p0.meituan.net/erpbossapi/fdfb6c015617bb432727f981eb766e19114882.jpg",
+					"price": 11,
+					"unit": "份",
+					"categoryName": "早餐",
+					"props": []
+				},
+				{
+					"name": "早）猪杂粥",
+					"picUrl": "http://p1.meituan.net/erpbossapi/7faacd5e0e6c21d8ceb52821f2e49ce9114233.jpg",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "早餐",
+					"props": []
+				},
+				{
+					"name": "早）咸蛋芥菜粥",
+					"picUrl": "http://p1.meituan.net/erpbossapi/06bbc32a10e43974f82afd10f8142f20408214.jpg",
+					"price": 11,
+					"unit": "份",
+					"categoryName": "早餐",
+					"props": []
+				},
+				{
+					"name": "早）皮蛋瘦肉粥",
+					"picUrl": "http://p0.meituan.net/erpbossapi/fbaa295cec262a525d69b22da24bc3f9111558.jpg",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "早餐",
+					"props": []
+				},
+				{
+					"name": "早）滑鸡粥",
+					"picUrl": "http://p1.meituan.net/erpbossapi/54668bb9d0a04ab48c1574e048598717125626.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "早餐",
+					"props": []
+				},
+				{
+					"name": "早）鱼骨粥",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 11,
+					"unit": "份",
+					"categoryName": "早餐",
+					"props": []
+				},
+				{
+					"name": "早）白粥",
+					"picUrl": "http://p1.meituan.net/erpbossapi/d3e384d8f249dc04072145394497789682940.jpg",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "早餐",
+					"props": []
+				},
+				{
+					"name": "早）多士",
+					"picUrl": "http://p0.meituan.net/erpbossapi/5d8908baf8ff2bac015da35c8b07f516158662.jpg",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "早餐",
+					"props": []
+				},
+				{
+					"name": "奶油花生酱多士",
+					"picUrl": "http://p0.meituan.net/erpbossapi/c2061b9abf79e2aa739d785ab3c4aed4158808.jpg",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "早餐",
+					"props": []
+				},
+				{
+					"name": "加料",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 5,
+					"unit": "份",
+					"categoryName": "早餐",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "各式饭类",
+			"foods": [
+				{
+					"name": "切鸡饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/e4ce9b1a4ed8959a288894f82dc34227155272.jpg",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "各式饭类",
+					"props": []
+				},
+				{
+					"name": "叉鸡饭",
+					"picUrl": "http://p1.meituan.net/erpbossapi/08fd70ee96d262609c047380db65645d179356.jpg",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "各式饭类",
+					"props": []
+				},
+				{
+					"name": "叉鸭饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/cb428652c6c58f5581ae8a1e4f3f206a159750.jpg",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "各式饭类",
+					"props": []
+				},
+				{
+					"name": "手撕鸡饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/436ae547836e98edd0466bc968731a21168633.jpg",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "各式饭类",
+					"props": []
+				},
+				{
+					"name": "叉烧饭",
+					"picUrl": "http://p1.meituan.net/erpbossapi/1dab726f28a9d34d7e39b3d50538ab0d174883.jpg",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "各式饭类",
+					"props": []
+				},
+				{
+					"name": "烧鸭拼切鸡饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/b5c8df108fa8a10aeff10f5ba0e0bad7157062.jpg",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "各式饭类",
+					"props": []
+				},
+				{
+					"name": "切鸡肶饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/523e0930178d2faa9f227d926b9de7b6166342.jpg",
+					"price": 29,
+					"unit": "份",
+					"categoryName": "各式饭类",
+					"props": []
+				},
+				{
+					"name": "烧鸭饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/0634a366927f7e092d7800c2493ba13e141046.jpg",
+					"price": 21,
+					"unit": "份",
+					"categoryName": "各式饭类",
+					"props": []
+				},
+				{
+					"name": "萝卜牛腩饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/ee33f8eaa232aeb9deb8fc911222a75c167906.jpg",
+					"price": 27,
+					"unit": "份",
+					"categoryName": "各式饭类",
+					"props": []
+				},
+				{
+					"name": "酱爆牛肉饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/f345154a8460feab2418057dd05b88a4181293.jpg",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "各式饭类",
+					"props": []
+				},
+				{
+					"name": "榨菜肉丝饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/200c7f4e7a2313b870c8b631e0261e07150700.jpg",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "各式饭类",
+					"props": []
+				},
+				{
+					"name": "梅菜扣肉饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/724b71da97ba961d3d10faeb2717342f164840.jpg",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "各式饭类",
+					"props": []
+				},
+				{
+					"name": "麻婆豆腐饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/5836b2580e7bc855e02dc9d9d5790a1a175666.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "各式饭类",
+					"props": []
+				},
+				{
+					"name": "金汤酸菜鱼饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/17bf8363b423432eff9cd43132561adc135571.jpg",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "各式饭类",
+					"props": []
+				},
+				{
+					"name": "姜葱鱼腩饭",
+					"picUrl": "http://p1.meituan.net/erpbossapi/895ce1357fa8f020e93f7e4269ff5547169643.jpg",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "各式饭类",
+					"props": []
+				},
+				{
+					"name": "猪杂汤饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/91c71ce657fe35bad9c41f3200fa3228147275.jpg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "各式饭类",
+					"props": []
+				},
+				{
+					"name": "番茄蛋饭",
+					"picUrl": "http://p1.meituan.net/xianfu/bbbb07261826ca1be9362902ba161189444416.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "各式饭类",
+					"props": []
+				},
+				{
+					"name": "叉烧滑蛋饭",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "各式饭类",
+					"props": []
+				},
+				{
+					"name": "蒸）香菇滑鸡饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/5a69a76125ad59f0d1ac8e2f3775993c492376.jpg",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "各式饭类",
+					"props": []
+				},
+				{
+					"name": "蒸）金针红枣鸡饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/416480926a8e4866ffb07a315084a08b162664.jpg",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "各式饭类",
+					"props": []
+				},
+				{
+					"name": "蒸）豉汁鱼腩饭",
+					"picUrl": "http://p1.meituan.net/erpbossapi/9acd61157b4e53317fa09db812d04f09452296.jpg",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "各式饭类",
+					"props": []
+				},
+				{
+					"name": "蒸）豉汁排骨饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/0a2ad2d891403b3e536e830e811414ab157407.jpg",
+					"price": 32,
+					"unit": "份",
+					"categoryName": "各式饭类",
+					"props": []
+				},
+				{
+					"name": "蒸）梅菜肉饼饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/4f6b980e6043c736def7880cb66f1f0b175134.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "各式饭类",
+					"props": []
+				},
+				{
+					"name": "咖喱牛腩饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/6c228702f0cdf529f332411c39d9913e147755.jpg",
+					"price": 32,
+					"unit": "份",
+					"categoryName": "各式饭类",
+					"props": []
+				},
+				{
+					"name": "咖喱鸡饭",
+					"picUrl": "http://p1.meituan.net/erpbossapi/374ee6fba540ddc56a0fe5906714798d147001.jpg",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "各式饭类",
+					"props": []
+				},
+				{
+					"name": "香菇焖鸡饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/43ab023d687554c6f2db470f83f0476c157014.jpg",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "各式饭类",
+					"props": []
+				},
+				{
+					"name": "白饭",
+					"picUrl": "http://p1.meituan.net/erpbossapi/a472e000394432ba3cd030fc8dc3a32d276090.jpg",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "各式饭类",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "饭市（套餐）",
+			"foods": [
+				{
+					"name": "烧鸭饭+饮品",
+					"picUrl": "http://p0.meituan.net/erpbossapi/d00bef0a9bc9108b5c58bb9fbad10d30148182.jpg",
+					"price": 27,
+					"unit": "份",
+					"categoryName": "饭市（套餐）",
+					"props": []
+				},
+				{
+					"name": "萝卜牛腩饭+饮品",
+					"picUrl": "http://p1.meituan.net/erpbossapi/c4bbc485b67976630cf4657d6d11a066174703.jpg",
+					"price": 34,
+					"unit": "份",
+					"categoryName": "饭市（套餐）",
+					"props": []
+				},
+				{
+					"name": "酱爆牛肉饭+饮品",
+					"picUrl": "http://p1.meituan.net/erpbossapi/9e7b9178cdc86617db80055ef5a5b516173131.jpg",
+					"price": 35,
+					"unit": "份",
+					"categoryName": "饭市（套餐）",
+					"props": []
+				},
+				{
+					"name": "姜葱鱼腩饭+饮品",
+					"picUrl": "http://p1.meituan.net/erpbossapi/d6c58a31bdda5e37b85e2f01ee77a643153303.jpg",
+					"price": 32,
+					"unit": "份",
+					"categoryName": "饭市（套餐）",
+					"props": []
+				},
+				{
+					"name": "蒸鱼腩饭+饮品",
+					"picUrl": "http://p1.meituan.net/erpbossapi/4053b22aea79dc1cbdb0641b4a6e7d7a122879.jpg",
+					"price": 33,
+					"unit": "份",
+					"categoryName": "饭市（套餐）",
+					"props": []
+				},
+				{
+					"name": "切鸡饭+饮品",
+					"picUrl": "http://p0.meituan.net/erpbossapi/3ccf70e24ecbf4e4ad0ddf0ad2b3035f143094.jpg",
+					"price": 32,
+					"unit": "份",
+					"categoryName": "饭市（套餐）",
+					"props": []
+				},
+				{
+					"name": "梅菜扣肉饭+饮品",
+					"picUrl": "http://p1.meituan.net/erpbossapi/35763a23954084a0db4932ce42cc84c8168348.jpg",
+					"price": 35,
+					"unit": "份",
+					"categoryName": "饭市（套餐）",
+					"props": []
+				},
+				{
+					"name": "叉鸡饭+饮品",
+					"picUrl": "http://p0.meituan.net/erpbossapi/c87766dde1f8bd2dc0e86a8efef60f09170210.jpg",
+					"price": 35,
+					"unit": "份",
+					"categoryName": "饭市（套餐）",
+					"props": []
+				},
+				{
+					"name": "手撕鸡饭+饮品",
+					"picUrl": "http://p0.meituan.net/erpbossapi/69775e7d299a116fdb52bda1684bd502154587.jpg",
+					"price": 33,
+					"unit": "份",
+					"categoryName": "饭市（套餐）",
+					"props": []
+				},
+				{
+					"name": "切鸡肶饭+饮品",
+					"picUrl": "http://p0.meituan.net/erpbossapi/4fe07a4f134e97c909d13dd9faa7bca0154880.jpg",
+					"price": 36,
+					"unit": "份",
+					"categoryName": "饭市（套餐）",
+					"props": []
+				},
+				{
+					"name": "香菇蒸鸡+饮品",
+					"picUrl": "http://p0.meituan.net/erpbossapi/19c771a14c63b4033d90247f11ed443e127273.jpg",
+					"price": 32,
+					"unit": "份",
+					"categoryName": "饭市（套餐）",
+					"props": []
+				},
+				{
+					"name": "叉烧饭+饮品",
+					"picUrl": "http://p0.meituan.net/erpbossapi/e27e3f6b1dcaaacb3fad91925f23246e514216.jpg",
+					"price": 35,
+					"unit": "份",
+					"categoryName": "饭市（套餐）",
+					"props": []
+				},
+				{
+					"name": "麻婆豆腐饭+饮品",
+					"picUrl": "http://p1.meituan.net/erpbossapi/eebbef92e28b2913fef8646e5a6a9567187832.jpg",
+					"price": 27,
+					"unit": "份",
+					"categoryName": "饭市（套餐）",
+					"props": []
+				},
+				{
+					"name": "榨菜肉丝饭+饮品",
+					"picUrl": "http://p0.meituan.net/erpbossapi/becf385ab536943b02fcd3f5e6e9b522146240.jpg",
+					"price": 31,
+					"unit": "份",
+					"categoryName": "饭市（套餐）",
+					"props": []
+				},
+				{
+					"name": "番茄蛋饭+饮品",
+					"picUrl": "http://p0.meituan.net/erpbossapi/7a6c18ec793e06a1c90223ee4ea5697d154458.jpg",
+					"price": 27,
+					"unit": "份",
+					"categoryName": "饭市（套餐）",
+					"props": []
+				},
+				{
+					"name": "豉汁蒸排骨饭+饮品",
+					"picUrl": "http://p0.meituan.net/erpbossapi/9a8e89f8acc6eadaa95232d6d029a5d7176190.jpg",
+					"price": 38,
+					"unit": "份",
+					"categoryName": "饭市（套餐）",
+					"props": []
+				},
+				{
+					"name": "猪杂汤饭+饮品",
+					"picUrl": "http://p0.meituan.net/erpbossapi/4ec0a4aa884aeb1a0f14a50ddf0fc28e450672.jpg",
+					"price": 29,
+					"unit": "份",
+					"categoryName": "饭市（套餐）",
+					"props": []
+				},
+				{
+					"name": "金汤酸菜鱼+饮品",
+					"picUrl": "http://p1.meituan.net/erpbossapi/b3ed935259f068d830e06b44782cd750179433.jpg",
+					"price": 32,
+					"unit": "份",
+					"categoryName": "饭市（套餐）",
+					"props": []
+				},
+				{
+					"name": "腊味煲仔饭+饮品",
+					"picUrl": "http://p1.meituan.net/erpbossapi/b2beba3d68dd04d244513a5edadabb95190547.jpg",
+					"price": 35,
+					"unit": "份",
+					"categoryName": "饭市（套餐）",
+					"props": []
+				},
+				{
+					"name": "鱼腩煲仔饭+饮品",
+					"picUrl": "http://p1.meituan.net/erpbossapi/b69ce5c20bf40df7794ec9df927e71bd196432.jpg",
+					"price": 35,
+					"unit": "份",
+					"categoryName": "饭市（套餐）",
+					"props": []
+				},
+				{
+					"name": "香菇鸡煲仔饭+饮品",
+					"picUrl": "http://p0.meituan.net/erpbossapi/31853c4383d0bdb7d6bbbf469fdb0882128056.jpg",
+					"price": 35,
+					"unit": "份",
+					"categoryName": "饭市（套餐）",
+					"props": []
+				},
+				{
+					"name": "牛腩煲仔饭+饮品",
+					"picUrl": "http://p1.meituan.net/erpbossapi/bc7295b9b332195027d299814b71292c192376.jpg",
+					"price": 35,
+					"unit": "份",
+					"categoryName": "饭市（套餐）",
+					"props": []
+				},
+				{
+					"name": "排骨煲仔饭+饮品",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 39,
+					"unit": "份",
+					"categoryName": "饭市（套餐）",
+					"props": []
+				},
+				{
+					"name": "梅菜肉饼饭+饮品",
+					"picUrl": "http://p1.meituan.net/erpbossapi/68b838eca317bb49d58ff91a4fa63a9b180009.jpg",
+					"price": 27,
+					"unit": "份",
+					"categoryName": "饭市（套餐）",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "煲仔饭",
+			"foods": [
+				{
+					"name": "烧鸭煲仔饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/c62d0d94bc963a2b1beccde04655fa46143931.jpg",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "煲仔饭",
+					"props": []
+				},
+				{
+					"name": "腊味煲仔饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/9536f1990a6e7ab9f3fa9f523ca15954192072.jpg",
+					"price": 29,
+					"unit": "份",
+					"categoryName": "煲仔饭",
+					"props": []
+				},
+				{
+					"name": "鱼腩煲仔饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/f15f4a9fa20285de98c405438a24ea57189554.jpg",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "煲仔饭",
+					"props": []
+				},
+				{
+					"name": "排骨煲仔饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/d3b2f767781a8fa413ffbed638f1032a155040.jpg",
+					"price": 32,
+					"unit": "份",
+					"categoryName": "煲仔饭",
+					"props": []
+				},
+				{
+					"name": "香菇鸡煲仔饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/6f4af1c0fc191ce81f6365f256d8cecb133057.jpg",
+					"price": 29,
+					"unit": "份",
+					"categoryName": "煲仔饭",
+					"props": []
+				},
+				{
+					"name": "牛腩煲仔饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/8d45a388c1b6c3e2dc8ca8525a4b23d2505522.jpg",
+					"price": 29,
+					"unit": "份",
+					"categoryName": "煲仔饭",
+					"props": []
+				},
+				{
+					"name": "叉烧煲仔饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/acee69965c017ff414fe1de13aaa493d168021.jpg",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "煲仔饭",
+					"props": []
+				},
+				{
+					"name": "香菇肉片煲仔饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/7dc54ac428f689b65f08605a13288d7e192294.jpg",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "煲仔饭",
+					"props": []
+				},
+				{
+					"name": "酱香牛肉煲仔饭",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 32,
+					"unit": "份",
+					"categoryName": "煲仔饭",
+					"props": []
+				},
+				{
+					"name": "腊鸭煲仔饭",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 29,
+					"unit": "份",
+					"categoryName": "煲仔饭",
+					"props": []
+				},
+				{
+					"name": "梅菜肉饼煲仔饭",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "煲仔饭",
+					"props": []
+				},
+				{
+					"name": "榨菜肉丝煲仔饭",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 27,
+					"unit": "份",
+					"categoryName": "煲仔饭",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "汤粉面",
+			"foods": [
+				{
+					"name": "烧鸭汤粉",
+					"picUrl": "http://p0.meituan.net/erpbossapi/a14ac7cf1aafd533aa24916017e8d0a8163855.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "汤粉面",
+					"props": []
+				},
+				{
+					"name": "牛腩汤河粉",
+					"picUrl": "http://p0.meituan.net/erpbossapi/f8dd40390491b5af5191e72aa7c44eca213927.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "汤粉面",
+					"props": []
+				},
+				{
+					"name": "叉烧汤面",
+					"picUrl": "http://p0.meituan.net/erpbossapi/7b43b72b712fff3782c3043665830f97175494.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "汤粉面",
+					"props": []
+				},
+				{
+					"name": "云吞面",
+					"picUrl": "http://p0.meituan.net/erpbossapi/c6dc574ec22f25a6966378c94fe129fc169282.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "汤粉面",
+					"props": []
+				},
+				{
+					"name": "净云吞",
+					"picUrl": "http://p0.meituan.net/erpbossapi/594aeb2f887cf4b6009fd84e1fc31b54140425.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "汤粉面",
+					"props": []
+				},
+				{
+					"name": "牛腩捞面",
+					"picUrl": "http://p0.meituan.net/erpbossapi/aac13acc1182d9f8f598c79156ee1f2a166820.jpg",
+					"price": 21,
+					"unit": "份",
+					"categoryName": "汤粉面",
+					"props": []
+				},
+				{
+					"name": "餐蛋公仔面",
+					"picUrl": "http://p1.meituan.net/erpbossapi/647ab77a837727b5a493989bedca104891461.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "汤粉面",
+					"props": []
+				},
+				{
+					"name": "火腿蛋公仔面",
+					"picUrl": "http://p0.meituan.net/erpbossapi/4a8f5e01f6038fd5d49afba316301013321005.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "汤粉面",
+					"props": []
+				},
+				{
+					"name": "切鸡汤面",
+					"picUrl": "http://p1.meituan.net/erpbossapi/438dfa20764d6e5bb18327b252469b6f160334.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "汤粉面",
+					"props": []
+				},
+				{
+					"name": "榨菜肉丝汤面",
+					"picUrl": "http://p0.meituan.net/erpbossapi/afe977794e691142a8beae46fe5c0a56152474.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "汤粉面",
+					"props": []
+				},
+				{
+					"name": "猪杂汤粉",
+					"picUrl": "http://p0.meituan.net/erpbossapi/d4b05e20d75d6363e8137903a0cef969146122.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "汤粉面",
+					"props": []
+				},
+				{
+					"name": "猪肝瘦肉汤粉",
+					"picUrl": "http://p1.meituan.net/erpbossapi/59df2b9dc92f3e0dbe2e631d24e36bcc140781.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "汤粉面",
+					"props": []
+				},
+				{
+					"name": "瘦肉汤粉",
+					"picUrl": "http://p1.meituan.net/erpbossapi/94d960827f19e92bcc2b67801d63d534151459.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "汤粉面",
+					"props": []
+				},
+				{
+					"name": "斋汤面",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "汤粉面",
+					"props": []
+				},
+				{
+					"name": "+煎鸡蛋",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "汤粉面",
+					"props": []
+				},
+				{
+					"name": "鱼骨汤米粉",
+					"picUrl": "http://p1.meituan.net/erpbossapi/4c91d62fe5d0468891232383c9590a73136315.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "汤粉面",
+					"props": []
+				},
+				{
+					"name": "鱼片汤粉",
+					"picUrl": "http://p0.meituan.net/erpbossapi/cc873d72af00531035ae4f198c9cc608133602.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "汤粉面",
+					"props": []
+				},
+				{
+					"name": "肠仔蛋公仔面",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 21,
+					"unit": "份",
+					"categoryName": "汤粉面",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "汤粉面（套餐）",
+			"foods": [
+				{
+					"name": "烧鸭汤粉+饮品",
+					"picUrl": "http://p0.meituan.net/erpbossapi/cc6f66f5de05976bf8af91cb3f1a5ffb171336.jpg",
+					"price": 21,
+					"unit": "份",
+					"categoryName": "汤粉面（套餐）",
+					"props": []
+				},
+				{
+					"name": "牛腩汤河粉+饮品",
+					"picUrl": "http://p0.meituan.net/erpbossapi/815505c59cc7f22f1a1aeff3cff6821b504786.jpg",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "汤粉面（套餐）",
+					"props": []
+				},
+				{
+					"name": "叉烧汤面+饮品",
+					"picUrl": "http://p1.meituan.net/erpbossapi/223320d69d4d2a048ad6b99b26ce6bb4200030.jpg",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "汤粉面（套餐）",
+					"props": []
+				},
+				{
+					"name": "云吞面+饮品",
+					"picUrl": "http://p1.meituan.net/erpbossapi/4b1c69db7420650c9915b814a57ceb47164203.jpg",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "汤粉面（套餐）",
+					"props": []
+				},
+				{
+					"name": "净云吞+饮品",
+					"picUrl": "http://p0.meituan.net/erpbossapi/6a4594c83790195a1bc553c9b84703e0137039.jpg",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "汤粉面（套餐）",
+					"props": []
+				},
+				{
+					"name": "牛腩捞面+饮品",
+					"picUrl": "http://p1.meituan.net/erpbossapi/930ad6684c5ccaeb1aef77842de37fc7164226.jpg",
+					"price": 27,
+					"unit": "份",
+					"categoryName": "汤粉面（套餐）",
+					"props": []
+				},
+				{
+					"name": "餐蛋面+饮品",
+					"picUrl": "http://p0.meituan.net/erpbossapi/009260f81960cebd61c769a36e719577110905.jpg",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "汤粉面（套餐）",
+					"props": []
+				},
+				{
+					"name": "腿蛋面+饮品",
+					"picUrl": "http://p0.meituan.net/erpbossapi/703d4d63dbb852c9eaf5308a3ba867d1181187.jpg",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "汤粉面（套餐）",
+					"props": []
+				},
+				{
+					"name": "切鸡汤面+饮品",
+					"picUrl": "http://p0.meituan.net/erpbossapi/48eb8d1d231a54cd8f64c32c917b65e4487693.jpg",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "汤粉面（套餐）",
+					"props": []
+				},
+				{
+					"name": "榨菜肉丝面+饮品",
+					"picUrl": "http://p0.meituan.net/erpbossapi/30e97afbd6643905c11ae601f850ad25500476.jpg",
+					"price": 21,
+					"unit": "份",
+					"categoryName": "汤粉面（套餐）",
+					"props": []
+				},
+				{
+					"name": "猪杂汤粉+饮品",
+					"picUrl": "http://p0.meituan.net/erpbossapi/f6a333c488ab90b7ff8439624b932326147269.jpg",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "汤粉面（套餐）",
+					"props": []
+				},
+				{
+					"name": "猪肝瘦肉汤粉+饮品",
+					"picUrl": "http://p0.meituan.net/erpbossapi/c09c9f5520168d2ff8fd52629c52baf4458381.jpg",
+					"price": 21,
+					"unit": "份",
+					"categoryName": "汤粉面（套餐）",
+					"props": []
+				},
+				{
+					"name": "瘦肉汤粉+饮品",
+					"picUrl": "http://p0.meituan.net/erpbossapi/5009b8edd62decf2612179967e45ec90147945.jpg",
+					"price": 21,
+					"unit": "份",
+					"categoryName": "汤粉面（套餐）",
+					"props": []
+				},
+				{
+					"name": "鱼骨汤米+饮品",
+					"picUrl": "http://p0.meituan.net/erpbossapi/d190e1792d75d40ca46914683c45b941134508.jpg",
+					"price": 21,
+					"unit": "份",
+					"categoryName": "汤粉面（套餐）",
+					"props": []
+				},
+				{
+					"name": "鱼片汤米粉+饮品",
+					"picUrl": "http://p0.meituan.net/erpbossapi/e38c7865cfdb1e8bc0ff0aceb1a7cf9f135444.jpg",
+					"price": 21,
+					"unit": "份",
+					"categoryName": "汤粉面（套餐）",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "生滚粥",
+			"foods": [
+				{
+					"name": "皮蛋瘦肉粥",
+					"picUrl": "http://p0.meituan.net/erpbossapi/7eb08920ffc0bf64582c99de7cbd7f9b105931.jpg",
+					"price": 15,
+					"unit": "碗",
+					"categoryName": "生滚粥",
+					"props": []
+				},
+				{
+					"name": "鱼片粥",
+					"picUrl": "http://p0.meituan.net/erpbossapi/85b48c2935e68b66ea5de5785cc8f64e105684.jpg",
+					"price": 15,
+					"unit": "碗",
+					"categoryName": "生滚粥",
+					"props": []
+				},
+				{
+					"name": "猪杂粥",
+					"picUrl": "http://p1.meituan.net/erpbossapi/a088dc196c8ae69c331e411619f51087105158.jpg",
+					"price": 15,
+					"unit": "碗",
+					"categoryName": "生滚粥",
+					"props": []
+				},
+				{
+					"name": "鱼骨粥",
+					"picUrl": "http://p0.meituan.net/erpbossapi/946ef962fbe33fa8c8c53027bcb6bad697419.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "生滚粥",
+					"props": []
+				},
+				{
+					"name": "猪肝瘦肉粥",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "生滚粥",
+					"props": []
+				},
+				{
+					"name": "滑鸡粥",
+					"picUrl": "http://p0.meituan.net/erpbossapi/ddee6c0a5e4aa5a8f6ab22c10070fd1a396547.jpg",
+					"price": 18,
+					"unit": "碗",
+					"categoryName": "生滚粥",
+					"props": []
+				},
+				{
+					"name": "咸蛋芥菜粥",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 15,
+					"unit": "碗",
+					"categoryName": "生滚粥",
+					"props": []
+				},
+				{
+					"name": "白粥",
+					"picUrl": "http://p0.meituan.net/erpbossapi/b903b9b28d5d8f462e338e55a2fcc1b777814.jpg",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "生滚粥",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "热饮",
+			"foods": [
+				{
+					"name": "热）港式奶茶",
+					"picUrl": "http://p0.meituan.net/erpbossapi/23db74f26031658a9314baaa065b4eef118832.jpg",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "热饮",
+					"props": []
+				},
+				{
+					"name": "热）咖啡",
+					"picUrl": "http://p0.meituan.net/erpbossapi/acaf9ef891c5010b17c6b796c2b8b6b5145195.jpg",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "热饮",
+					"props": []
+				},
+				{
+					"name": "热）鲜奶",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "热饮",
+					"props": []
+				},
+				{
+					"name": "热）柠檬茶",
+					"picUrl": "http://p0.meituan.net/erpbossapi/78c806972d05bef2d32403dc7bacdeda108668.jpg",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "热饮",
+					"props": []
+				},
+				{
+					"name": "热）鸳鸯",
+					"picUrl": "http://p0.meituan.net/erpbossapi/77278853c10dfeb94469984d04c85161146222.jpg",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "热饮",
+					"props": []
+				},
+				{
+					"name": "热）阿华田",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "热饮",
+					"props": []
+				},
+				{
+					"name": "热）朱古力",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "热饮",
+					"props": []
+				},
+				{
+					"name": "热）好立克",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "热饮",
+					"props": []
+				},
+				{
+					"name": "热）杏仁霜",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "热饮",
+					"props": []
+				},
+				{
+					"name": "热）柚子茶",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "热饮",
+					"props": []
+				},
+				{
+					"name": "热）柑橘蜜",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "热饮",
+					"props": []
+				},
+				{
+					"name": "热）菊花蜜",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "热饮",
+					"props": []
+				},
+				{
+					"name": "热）柠蜜",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "热饮",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "冻饮",
+			"foods": [
+				{
+					"name": "冻柠檬茶",
+					"picUrl": "http://p0.meituan.net/erpbossapi/5818dbd7f906a55d25aaecfdd97ed1f7117461.jpg",
+					"price": 14,
+					"unit": "杯",
+					"categoryName": "冻饮",
+					"props": []
+				},
+				{
+					"name": "泰式冰柠茶",
+					"picUrl": "http://p0.meituan.net/erpbossapi/359c92a8e701778e771a0d289c9bec2e155645.jpg",
+					"price": 16,
+					"unit": "杯",
+					"categoryName": "冻饮",
+					"props": []
+				},
+				{
+					"name": "泰式奶茶",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 16,
+					"unit": "杯",
+					"categoryName": "冻饮",
+					"props": []
+				},
+				{
+					"name": "冻鸳鸯",
+					"picUrl": "http://p1.meituan.net/erpbossapi/185d935553d487efd3df1e13cdbdd670126651.jpg",
+					"price": 14,
+					"unit": "杯",
+					"categoryName": "冻饮",
+					"props": []
+				},
+				{
+					"name": "冻柚子茶",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 14,
+					"unit": "杯",
+					"categoryName": "冻饮",
+					"props": []
+				},
+				{
+					"name": "冻柑橘蜜",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 14,
+					"unit": "杯",
+					"categoryName": "冻饮",
+					"props": []
+				},
+				{
+					"name": "冻柠乐",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 14,
+					"unit": "杯",
+					"categoryName": "冻饮",
+					"props": []
+				},
+				{
+					"name": "冻菊花蜜",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 14,
+					"unit": "杯",
+					"categoryName": "冻饮",
+					"props": []
+				},
+				{
+					"name": "冻利宾纳",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 14,
+					"unit": "杯",
+					"categoryName": "冻饮",
+					"props": []
+				},
+				{
+					"name": "冻柠七",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 14,
+					"unit": "杯",
+					"categoryName": "冻饮",
+					"props": []
+				},
+				{
+					"name": "红豆冰",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 14,
+					"unit": "杯",
+					"categoryName": "冻饮",
+					"props": []
+				},
+				{
+					"name": "冻阿华田",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 14,
+					"unit": "杯",
+					"categoryName": "冻饮",
+					"props": []
+				},
+				{
+					"name": "冻朱古力",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 14,
+					"unit": "杯",
+					"categoryName": "冻饮",
+					"props": []
+				},
+				{
+					"name": "冻好立克",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 14,
+					"unit": "杯",
+					"categoryName": "冻饮",
+					"props": []
+				},
+				{
+					"name": "冻杏仁霜",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 14,
+					"unit": "杯",
+					"categoryName": "冻饮",
+					"props": []
+				},
+				{
+					"name": "青柠金桔蜜",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 15,
+					"unit": "杯",
+					"categoryName": "冻饮",
+					"props": []
+				},
+				{
+					"name": "青柠百香果",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 15,
+					"unit": "杯",
+					"categoryName": "冻饮",
+					"props": []
+				},
+				{
+					"name": "百香果绿茶",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 15,
+					"unit": "杯",
+					"categoryName": "冻饮",
+					"props": []
+				},
+				{
+					"name": "滋润水果茶",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 15,
+					"unit": "杯",
+					"categoryName": "冻饮",
+					"props": []
+				},
+				{
+					"name": "泰式冰茶",
+					"picUrl": "http://p0.meituan.net/wmproduct/74d03007bf6e752bc9ab5c26ea8f576d125035.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "冻饮",
+					"props": []
+				},
+				{
+					"name": "冻奶茶",
+					"picUrl": "http://p0.meituan.net/erpbossapi/54d38b553551567b1cabbebbcd59b82f129932.jpg",
+					"price": 14,
+					"unit": "杯",
+					"categoryName": "冻饮",
+					"props": []
+				},
+				{
+					"name": "冻咖啡",
+					"picUrl": "http://p0.meituan.net/erpbossapi/aefa0638ac439607ebae98319331af06104174.jpg",
+					"price": 14,
+					"unit": "杯",
+					"categoryName": "冻饮",
+					"props": []
+				},
+				{
+					"name": "冻柠蜜",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 14,
+					"unit": "份",
+					"categoryName": "冻饮",
+					"props": []
+				},
+				{
+					"name": "冻柠水",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 14,
+					"unit": "份",
+					"categoryName": "冻饮",
+					"props": []
+				},
+				{
+					"name": "可乐",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 6,
+					"unit": "听",
+					"categoryName": "冻饮",
+					"props": []
+				},
+				{
+					"name": "七喜",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 6,
+					"unit": "听",
+					"categoryName": "冻饮",
+					"props": []
+				},
+				{
+					"name": "百威啤酒",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 8,
+					"unit": "听",
+					"categoryName": "冻饮",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "广式烧味",
+			"foods": [
+				{
+					"name": "咸鸭蛋",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 3,
+					"unit": "只",
+					"categoryName": "广式烧味",
+					"props": []
+				},
+				{
+					"name": "烧鸭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/b08cbee909890c9af70458b773a9c4db148463.jpg",
+					"price": 30,
+					"unit": "份",
+					"categoryName": "广式烧味",
+					"props": []
+				},
+				{
+					"name": "秘制叉烧",
+					"picUrl": "http://p0.meituan.net/erpbossapi/cb2d2f828732b9a7d9367892b44d7d92165194.jpg",
+					"price": 48,
+					"unit": "例",
+					"categoryName": "广式烧味",
+					"props": []
+				},
+				{
+					"name": "白切鸡",
+					"picUrl": "http://p0.meituan.net/erpbossapi/fe0c4eff324a7d2b08479882c24e787b124581.jpg",
+					"price": 43,
+					"unit": "半只",
+					"categoryName": "广式烧味",
+					"props": []
+				},
+				{
+					"name": "叉烧拼切鸡",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 48,
+					"unit": "例",
+					"categoryName": "广式烧味",
+					"props": []
+				},
+				{
+					"name": "手撕鸡",
+					"picUrl": "http://p1.meituan.net/erpbossapi/5612e907d94cacf6440c9c9710fb939d152229.jpg",
+					"price": 43,
+					"unit": "例",
+					"categoryName": "广式烧味",
+					"props": []
+				},
+				{
+					"name": "烧鸭拼切鸡",
+					"picUrl": "http://p0.meituan.net/erpbossapi/7b16938529e53f5bdc574db11900e5cf125299.jpg",
+					"price": 43,
+					"unit": "份",
+					"categoryName": "广式烧味",
+					"props": []
+				},
+				{
+					"name": "烧鸭拼叉烧",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 48,
+					"unit": "例",
+					"categoryName": "广式烧味",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "家常菜（例牌）",
+			"foods": [
+				{
+					"name": "萝卜牛腩",
+					"picUrl": "http://p0.meituan.net/erpbossapi/debd1e9338b9c2b6f18d5192de7160c1173278.jpg",
+					"price": 43,
+					"unit": "例",
+					"categoryName": "家常菜（例牌）",
+					"props": []
+				},
+				{
+					"name": "姜葱鱼腩",
+					"picUrl": "http://p0.meituan.net/erpbossapi/62c508c5a5c76f79f68669d34e201726149613.jpg",
+					"price": 38,
+					"unit": "例",
+					"categoryName": "家常菜（例牌）",
+					"props": []
+				},
+				{
+					"name": "金汤酸菜鱼",
+					"picUrl": "http://p0.meituan.net/erpbossapi/02c3a31e0ebf03a4857ed4447b572f20119252.jpg",
+					"price": 38,
+					"unit": "例",
+					"categoryName": "家常菜（例牌）",
+					"props": []
+				},
+				{
+					"name": "香菇焖鸡",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 43,
+					"unit": "例",
+					"categoryName": "家常菜（例牌）",
+					"props": []
+				},
+				{
+					"name": "蒸鱼腩",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 38,
+					"unit": "例",
+					"categoryName": "家常菜（例牌）",
+					"props": []
+				},
+				{
+					"name": "香菇蒸鸡",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 43,
+					"unit": "例",
+					"categoryName": "家常菜（例牌）",
+					"props": []
+				},
+				{
+					"name": "咖喱鸡",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 48,
+					"unit": "例",
+					"categoryName": "家常菜（例牌）",
+					"props": []
+				},
+				{
+					"name": "咖喱牛腩",
+					"picUrl": "http://p0.meituan.net/erpbossapi/ba5a6b3114d6475d1ba2516143204c36151334.jpg",
+					"price": 48,
+					"unit": "例",
+					"categoryName": "家常菜（例牌）",
+					"props": []
+				},
+				{
+					"name": "鼓汁蒸排骨",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 48,
+					"unit": "例",
+					"categoryName": "家常菜（例牌）",
+					"props": []
+				},
+				{
+					"name": "肉松蒸水蛋",
+					"picUrl": "http://p0.meituan.net/erpbossapi/fe6360ad240bda175cf67d63e71b7b53123752.jpg",
+					"price": 28,
+					"unit": "例",
+					"categoryName": "家常菜（例牌）",
+					"props": []
+				},
+				{
+					"name": "麻婆豆腐",
+					"picUrl": "http://p1.meituan.net/erpbossapi/a836a5b859371174c183d51c5d16a2c6153297.jpg",
+					"price": 35,
+					"unit": "份",
+					"categoryName": "家常菜（例牌）",
+					"props": []
+				},
+				{
+					"name": "白灼时蔬",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 22,
+					"unit": "例",
+					"categoryName": "家常菜（例牌）",
+					"props": []
+				},
+				{
+					"name": "白米饭",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 4,
+					"unit": "碗",
+					"categoryName": "家常菜（例牌）",
+					"props": []
+				},
+				{
+					"name": "豉椒焖排骨",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 45,
+					"unit": "份",
+					"categoryName": "家常菜（例牌）",
+					"props": []
+				},
+				{
+					"name": "厨娘豆腐鱼",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 38,
+					"unit": "份",
+					"categoryName": "家常菜（例牌）",
+					"props": []
+				},
+				{
+					"name": "番茄炒蛋",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 30,
+					"unit": "份",
+					"categoryName": "家常菜（例牌）",
+					"props": []
+				},
+				{
+					"name": "鸡蛋",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 3,
+					"unit": "只",
+					"categoryName": "家常菜（例牌）",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "滚汤/炖汤",
+			"foods": [
+				{
+					"name": "是日炖汤",
+					"picUrl": "http://p0.meituan.net/erpbossapi/a35943c37a8aa7a3579780f0065cdcb7103540.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "滚汤/炖汤",
+					"props": []
+				},
+				{
+					"name": "猪肝瘦肉汤",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "滚汤/炖汤",
+					"props": []
+				},
+				{
+					"name": "生滚猪杂汤",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 18,
+					"unit": "例",
+					"categoryName": "滚汤/炖汤",
+					"props": []
+				},
+				{
+					"name": "芥菜肉片汤",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "滚汤/炖汤",
+					"props": []
+				},
+				{
+					"name": "咸蛋芥菜汤",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "滚汤/炖汤",
+					"props": []
+				},
+				{
+					"name": "紫菜蛋花汤",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 10,
+					"unit": "例",
+					"categoryName": "滚汤/炖汤",
+					"props": []
+				},
+				{
+					"name": "西红柿蛋汤",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 10,
+					"unit": "例",
+					"categoryName": "滚汤/炖汤",
+					"props": []
+				},
+				{
+					"name": "凉瓜炖龙骨",
+					"picUrl": "http://p0.meituan.net/erpbossapi/56d60ae3ac62c2cba333e20657dc009c125227.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "滚汤/炖汤",
+					"props": []
+				},
+				{
+					"name": "五指毛桃炖龙骨",
+					"picUrl": "http://p0.meituan.net/erpbossapi/0aa7c883433c2b533866d585dc01d2b4122256.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "滚汤/炖汤",
+					"props": []
+				},
+				{
+					"name": "药膳炖水鸭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/de8c50e4cdbfea291a0f5595f0bdbd7c124459.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "滚汤/炖汤",
+					"props": []
+				},
+				{
+					"name": "茶树菇炖龙骨",
+					"picUrl": "http://p1.meituan.net/erpbossapi/e84028a35de38b83a4944f0cf10197ef122843.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "滚汤/炖汤",
+					"props": []
+				},
+				{
+					"name": "花旗参炖竹丝鸡",
+					"picUrl": "http://p0.meituan.net/erpbossapi/98673642e4df9c5543685fdbd189e188130847.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "滚汤/炖汤",
+					"props": []
+				},
+				{
+					"name": "虫草花炖老鸡",
+					"picUrl": "http://p0.meituan.net/erpbossapi/e0e9b30e54354d6d8afd659b35617db1124170.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "滚汤/炖汤",
+					"props": []
+				},
+				{
+					"name": "木瓜花生炖鸡脚",
+					"picUrl": "http://p0.meituan.net/erpbossapi/bc25686bc4332a2065b5154c865b43ea122424.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "滚汤/炖汤",
+					"props": []
+				},
+				{
+					"name": "冬瓜生熟地炖龙骨",
+					"picUrl": "http://p0.meituan.net/erpbossapi/6dfba3dec67a7871b362ab8deddbaebb125832.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "滚汤/炖汤",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "下午茶（套餐）",
+			"foods": [
+				{
+					"name": "下午茶（套餐A）",
+					"picUrl": "http://p0.meituan.net/erpbossapi/be35f10525c297ffc1ac3879067453e1186044.jpg",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "下午茶（套餐）",
+					"props": []
+				},
+				{
+					"name": "下午茶（套餐B）",
+					"picUrl": "http://p1.meituan.net/erpbossapi/d2a2c167a23768f7614c3f853b8f9196207513.jpg",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "下午茶（套餐）",
+					"props": []
+				},
+				{
+					"name": "午）一杯奶茶两只包",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "下午茶（套餐）",
+					"props": []
+				},
+				{
+					"name": "午）皮蛋瘦肉粥",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "下午茶（套餐）",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "小吃",
+			"foods": [
+				{
+					"name": "奶油多",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "小吃",
+					"props": []
+				},
+				{
+					"name": "奶酱多",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "小吃",
+					"props": []
+				},
+				{
+					"name": "公司三文治",
+					"picUrl": "http://p1.meituan.net/erpbossapi/f1817248251e3d98622b1bcde35b0681510851.jpg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "小吃",
+					"props": []
+				},
+				{
+					"name": "腿蛋治",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "小吃",
+					"props": []
+				},
+				{
+					"name": "餐肉蛋治",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "小吃",
+					"props": []
+				},
+				{
+					"name": "多士",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "小吃",
+					"props": []
+				},
+				{
+					"name": "咖喱鱼旦",
+					"picUrl": "http://p0.meituan.net/erpbossapi/11a9bba8d8fc1e0bc4af2f22a4a9fbd6155575.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "小吃",
+					"props": []
+				},
+				{
+					"name": "咖喱鱼腐",
+					"picUrl": "http://p1.meituan.net/erpbossapi/b9a6a073b38088fe0d78be2672bd74fd142921.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "小吃",
+					"props": []
+				},
+				{
+					"name": "豉油皇风爪",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "小吃",
+					"props": []
+				},
+				{
+					"name": "陈醋风爪",
+					"picUrl": "http://p0.meituan.net/erpbossapi/708e76286a580fd257c086a1c8b3ee11154200.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "小吃",
+					"props": []
+				},
+				{
+					"name": "咖喱卜卜肠",
+					"picUrl": "http://p0.meituan.net/erpbossapi/b4f673e9fb7fa6921d604e319b0a8e1e146913.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "小吃",
+					"props": []
+				},
+				{
+					"name": "萝卜牛杂",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "小吃",
+					"props": []
+				},
+				{
+					"name": "卤水掌翼",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "小吃",
+					"props": []
+				},
+				{
+					"name": "煎鸡蛋",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 3,
+					"unit": "只",
+					"categoryName": "小吃",
+					"props": []
+				},
+				{
+					"name": "炒蛋多士",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "小吃",
+					"props": []
+				},
+				{
+					"name": "肠仔",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 5,
+					"unit": "份",
+					"categoryName": "小吃",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "打包盒、纸巾",
+			"foods": [
+				{
+					"name": "打包盒",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 1,
+					"unit": "个",
+					"categoryName": "打包盒、纸巾",
+					"props": []
+				},
+				{
+					"name": "纸巾",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 1,
+					"unit": "份",
+					"categoryName": "打包盒、纸巾",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "工作餐",
+			"foods": [
+				{
+					"name": "只接受长期订购",
+					"picUrl": "http://p0.meituan.net/erpbossapi/274c91f7763485b796758f91a92a6ffe445208.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "工作餐",
+					"props": []
+				},
+				{
+					"name": "只接受长期订购(滚汤",
+					"picUrl": "http://p0.meituan.net/erpbossapi/d33a73451d611e8170296532637faf39122475.jpg",
+					"price": 24,
+					"unit": "份",
+					"categoryName": "工作餐",
+					"props": []
+				},
+				{
+					"name": "只接受长期订餐(炖汤",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "工作餐",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "鲜榨果汁",
+			"foods": [
+				{
+					"name": "苹果汁",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "鲜榨果汁",
+					"props": []
+				},
+				{
+					"name": "雪梨汁",
+					"picUrl": "http://p0.meituan.net/erpbossapi/cff95815d3addd4e79a0a963787a696f86670.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "鲜榨果汁",
+					"props": []
+				},
+				{
+					"name": "甘笋汁",
+					"picUrl": "http://p0.meituan.net/erpbossapi/2a190d24fe4161de18e9706e29735bd8127908.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "鲜榨果汁",
+					"props": []
+				},
+				{
+					"name": "西芹汁",
+					"picUrl": "http://p0.meituan.net/erpbossapi/3dca39a17f39f25d93607adcb2223814134878.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "鲜榨果汁",
+					"props": []
+				},
+				{
+					"name": "苹果甘笋汁",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "鲜榨果汁",
+					"props": []
+				},
+				{
+					"name": "橙汁",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "鲜榨果汁",
+					"props": []
+				},
+				{
+					"name": "西瓜汁",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "鲜榨果汁",
+					"props": []
+				},
+				{
+					"name": "芒果牛奶",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "鲜榨果汁",
+					"props": []
+				},
+				{
+					"name": "柠檬汁",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "鲜榨果汁",
+					"props": []
+				},
+				{
+					"name": "木瓜汁",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "鲜榨果汁",
+					"props": []
+				},
+				{
+					"name": "木瓜鲜奶",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "鲜榨果汁",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "默认分类",
+			"foods": []
+		},
+		{
+			"name": "系统专用（勿进）",
+			"foods": [
+				{
+					"name": "河粉",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 0,
+					"unit": "份",
+					"categoryName": "系统专用（勿进）",
+					"props": []
+				},
+				{
+					"name": "米粉",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 0,
+					"unit": "份",
+					"categoryName": "系统专用（勿进）",
+					"props": []
+				},
+				{
+					"name": "濑粉",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 0,
+					"unit": "份",
+					"categoryName": "系统专用（勿进）",
+					"props": []
+				},
+				{
+					"name": "面",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 0,
+					"unit": "份",
+					"categoryName": "系统专用（勿进）",
+					"props": []
+				},
+				{
+					"name": "公仔面",
+					"picUrl": "https://p0.meituan.net/erp/6c92998b8b82a6363f4a648a81375e049045.png",
+					"price": 0,
+					"unit": "份",
+					"categoryName": "系统专用（勿进）",
+					"props": []
+				}
+			]
+		}
+	]
+}
