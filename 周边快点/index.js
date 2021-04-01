@@ -17,11 +17,11 @@ const exportMode = "feie"
 
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   specifications:[],//规格
-  practice:[  '整只或切块', '规格','做法'],//做法
+  practice:[ '就餐类型', '整只或切块', '规格','做法'],//做法
   feeding:[],//加料
   remarks: [],//备注
   propsGroupSort: [
-    '整只或切块', '规格','做法'
+    '就餐类型', '整只或切块', '规格','做法'
   ],
   propsSort: {
   }
@@ -72,6 +72,19 @@ function formatFoodProps(foodItem) {
     return groupTemp
   })
   //TODO 属性的排序可以在此操作
+
+  if (foodItem.categoryName!="肠粉\/汤粉加料区"&&foodItem.categoryName!="饮料") {
+    propsRes.push({
+      name: "就餐类型",
+      values:[{
+        value: "打包",
+        price: 1,
+        propName:"就餐类型",
+        isMul:true
+      }]
+    })
+  }
+  
   
   return propsRes;
   
@@ -111,7 +124,8 @@ async function  handleRequestData(requestMenuData) {
       let categoryId = categoryItem.id;
       // console.log(categoriesObj,categoriesObj[categoryId])
       // (categoriesObjTemp[categoryId]==undefined)&&console.log("categoryId---",categoriesObjTemp[categoryId],categoryId)
-      categoryData.foods = categoriesObjTemp[categoryId]&&categoriesObjTemp[categoryId].reduce((res,goodItem) => { 
+      categoryData.foods = requestMenuData.categoryGoods[categoryId].reduce((res, goodItem) => {
+        goodItem = foodList[goodItem]
         if (goodItem&&!goodItem.hide) { 
           let foodData = {
             name:goodItem.name || "",
