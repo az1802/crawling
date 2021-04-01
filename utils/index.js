@@ -146,7 +146,7 @@ async function genExcel(merchantInfo, outputDir) {
   let excelData = [[]]
   categories.forEach(categoryItem => { 
     categoryItem.foods.forEach(foodItem => { 
-      let excelDataTemp = [foodItem.name,"默认",foodItem.categoryName,foodItem.unit,parseFloat(foodItem.price).toFixed(2)]
+      let excelDataTemp = [foodItem.name,"默认",foodItem.categoryName,foodItem.unit,parseFloat(foodItem.price || 0).toFixed(2)]
       foodItem.props.length ==0 ? excelData.unshift(excelDataTemp) :excelData.push(excelDataTemp) 
     })
   })
@@ -181,13 +181,13 @@ async function genExcelAll(merchantInfo, outputDir,menuSetting) {
   
   let excelData = [[]];
   let allPropObj = {};
-  categories.forEach(categoryItem => { 
-    categoryItem.foods.forEach(foodItem => { 
+  categories.forEach(categoryItem => {
+    categoryItem.foods.forEach(foodItem => {
       let foodName = foodItem.name,
         foodDefaultCategory = "默认",
         foodCategoryName = foodItem.categoryName,
         foodUnit = foodItem.unit,
-        foodSpecificationType = "", 
+        foodSpecificationType = "",
         foodSpecification = "",
         foodPrice = parseFloat(foodItem.price).toFixed(2),
         foodPracticeType = [],
@@ -195,25 +195,25 @@ async function genExcelAll(merchantInfo, outputDir,menuSetting) {
         foodFeeding = [],
         foodRemarks = [];
 
-      foodItem.props && foodItem.props.forEach(propItem => { 
+      foodItem.props && foodItem.props.forEach(propItem => {
         let propItemName = propItem.name;
         allPropObj[propItemName] = 1;
         let propVales = propItem.values;
 
         for (key in menuSetting) {
           let val = menuSetting[key]
-          if (val.indexOf(propItemName)!=-1) {
+          if (val.indexOf(propItemName) != -1) {
             if (key == "specifications") {//此属性值处理为规格
               // 规格菜需要导入多个
               foodSpecificationType = propItemName;
               foodSpecification = propVales
             } else if (key == "practice") {//处理做法
               foodPracticeType.push(propItemName);
-              foodPractice.push(propVales.map(i=>i.value).join("/"))
-            }else if (key == "feeding") {//处理加料
-              foodFeeding = propVales.map(i=>i.value)
-            }else if (key == "remarks") {//处理备注
-              foodRemarks = propVales.map(i=>i.value)
+              foodPractice.push(propVales.map(i => i.value).join("/"))
+            } else if (key == "feeding") {//处理加料
+              foodFeeding = propVales.map(i => i.value)
+            } else if (key == "remarks") {//处理备注
+              foodRemarks = propVales.map(i => i.value)
             }
             break;
           }
@@ -226,14 +226,14 @@ async function genExcelAll(merchantInfo, outputDir,menuSetting) {
       foodFeeding = foodFeeding.join(",");
       foodRemarks = foodRemarks.join(",");
       
-      let foodExcelData =[
-          foodName,
-          foodDefaultCategory,
-          foodCategoryName,
-          foodUnit,
-          "",
-          "",
-          foodPrice,
+      let foodExcelData = [
+        foodName,
+        foodDefaultCategory,
+        foodCategoryName,
+        foodUnit,
+        "",
+        "",
+        foodPrice || 0,
           foodPracticeType,
           foodPractice,
           foodFeeding,
@@ -564,7 +564,7 @@ async function genSpecificationsWord(merchantInfo, outputDir,menuSetting=menuSet
 
 
   // 处理没有爬取到的图片
-  dishesImgMatch(noImgUrls,shopDir);
+  // dishesImgMatch(noImgUrls,shopDir);
   genBeizhuText({noImgUrls, shopDir,mode:"feie"})
   
 

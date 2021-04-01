@@ -41,8 +41,8 @@ const outputDir = path.join(__dirname, "merchantInfos")
 
 // 客如云模式 menuSetting
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
-  specifications:["默认"],//规格
-  practice:["辣度"],//做法
+  specifications:[],//规格
+  practice:[ '要求', '份量', '口味', '加料', '升级为超值套餐', '加' ],//做法
   feeding:[],//加料
   remarks: [],//备注
 }
@@ -160,7 +160,7 @@ async function mkShopDir(shopDir) {
 }
 
 // 生成图片文件夹以及excel文件
-async function genImgsAndExcel() { 
+async function genImgsAndExcel() {
   let merchantInfo = await getMerchantInfo();
 
   let { shopName} = merchantInfo

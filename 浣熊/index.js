@@ -8,14 +8,14 @@ const { requestUrl,genImgs,genExcel,genExcelAll,genWord,genSpecificationsWord,fo
 
 
 
-const shopId = 28655
+const shopId = 20277
 const exportMode = "keruyun"
 // const exportMode = "feie"
 const shopRequestUrl = `https://m.diandianwaimai.com/dd_wx_applet/sitdownrts/getShopInfo?shop_id=${shopId}`
-const menuRequestUrl = `https://m.huanxiongdd.com/dd_wx_applet/sitdownrts/ajax_getProductDetail.action?shop_id=${shopId}`
+const menuRequestUrl = `https://m.diandianwaimai.com/dd_wx_applet/sitdownrts/ajax_getProductDetail.action?shop_id=${shopId}`
 
-let requestShopData = require("./shopData.json");
-let requestMenuData = require("./menuData.json");
+// let requestShopData = require("./shopData.json");
+// let requestMenuData = require("./menuData.json");
 const { isRegExp } = require("util");
 
 
@@ -25,13 +25,21 @@ const outputDir = path.join(__dirname, "merchantInfos")
 
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   specifications:[],//规格
-  practice:["加","口味","份量"],//做法
+  practice:[
+    "备注",
+    "口味",
+    "可换",
+    "蔬菜",
+    "可选"
+  ],//做法
   feeding:[],//加料
   remarks: [],//备注
-  propsGroupSort: [
-    "加",
+  propsGroupSort:[
+    "备注",
     "口味",
-    "份量"
+    "可换",
+    "蔬菜",
+    "可选"
   ],
   propsSort: {
     // "口味":["不辣","微辣","中辣","特辣","麻辣"]
@@ -49,10 +57,10 @@ async function logInfo(info,fileName="test.json") {
 
 // 获取原始数据
 async function getMerchantInfo() { 
-  // let requestShopData = await requestUrl(shopRequestUrl);
-  // logInfo(requestShopData,"shopData")
-  // let requestMenuData = await requestUrl(menuRequestUrl);
-  // logInfo(requestShopData, "menuData")
+  let requestShopData = await requestUrl(shopRequestUrl);
+  logInfo(requestShopData,"shopData")
+  let requestMenuData = await requestUrl(menuRequestUrl);
+  logInfo(requestShopData, "menuData")
   let merchantInfo = await handleRequestData(requestShopData, requestMenuData)
   await logInfo(merchantInfo, "merchantRes")
   return merchantInfo;

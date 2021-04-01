@@ -1,393 +1,134 @@
 {
-	"shopName": "三疯烧烤（上社）",
-	"shop_pic": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/79ee4744-0f69-4da7-a750-f23e7c9b6378_tmp_9c945d6139fa2c5b3baae092dfcbbf746f67adda231448bb.jpg",
+	"shopName": "杨铭宇 黄焖鸡米饭",
+	"shop_pic": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/7e4ec6f8-f8fa-4497-8870-c80bb210056b_tmp_6b09196452dd1f5d2ae7df8e54ae8270.jpg",
 	"categories": [
 		{
-			"name": "三疯招牌",
+			"name": "新品黄焖茄子+米饭",
 			"foods": [
 				{
-					"name": "烤羊排",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615528107667-113",
-					"price": 88,
-					"unit": "份",
-					"categoryName": "三疯招牌",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "三疯牛杂煲",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615543850430-475.jpg",
-					"price": 68,
-					"unit": "份",
-					"categoryName": "三疯招牌",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "三疯烤鱼",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615528107667-122",
-					"price": 58,
-					"unit": "份",
-					"categoryName": "三疯招牌",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "烤生蚝10个（大蚝）",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615528107667-108",
-					"price": 58,
-					"unit": "份",
-					"categoryName": "三疯招牌",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "烤扇贝1打",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615543850430-187.jpg",
-					"price": 38,
-					"unit": "份",
-					"categoryName": "三疯招牌",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "牛/羊肉类",
-			"foods": [
-				{
-					"name": "肉串",
-					"picUrl": "",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "牛/羊肉类",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "羊肉串10串",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615528107667-126",
-					"price": 32,
-					"unit": "份",
-					"categoryName": "牛/羊肉类",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "牛肉串10串",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615528107667-119",
-					"price": 32,
-					"unit": "份",
-					"categoryName": "牛/羊肉类",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "肥牛10串",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615528107667-97",
-					"price": 32,
-					"unit": "份",
-					"categoryName": "牛/羊肉类",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "烤牛筋10串",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615543850430-411.jpg",
-					"price": 32,
-					"unit": "份",
-					"categoryName": "牛/羊肉类",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "牛油10串",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615528107667-120",
-					"price": 25,
-					"unit": "份",
-					"categoryName": "牛/羊肉类",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "香辣猪蹄",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615543850430-83",
+					"name": "秘制黄焖腐竹",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-0.png",
 					"price": 20,
 					"unit": "份",
-					"categoryName": "牛/羊肉类",
+					"categoryName": "新品黄焖茄子+米饭",
 					"props": [
 						{
-							"name": "辣度",
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "要求",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "大份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "口味",
 							"values": [
 								{
 									"value": "不辣",
 									"price": 0,
-									"propName": "辣度",
+									"propName": "口味",
 									"isMul": true
 								},
 								{
 									"value": "微辣",
 									"price": 0,
-									"propName": "辣度",
+									"propName": "口味",
 									"isMul": true
 								},
 								{
 									"value": "中辣",
 									"price": 0,
-									"propName": "辣度",
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "不加料",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "青菜",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "土豆",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "黄焖腐竹",
+									"price": 2,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "黄焖豆腐泡",
+									"price": 2,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "黄焖荷包蛋",
+									"price": 2,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "金针菇",
+									"price": 2,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "升级为超值套餐",
+							"values": [
+								{
+									"value": "清凉茶柠檬汁特惠1元",
+									"price": 1,
+									"propName": "升级为超值套餐",
+									"isMul": true
+								},
+								{
+									"value": "绿豆冰沙特惠2元",
+									"price": 2,
+									"propName": "升级为超值套餐",
+									"isMul": true
+								},
+								{
+									"value": "北冰洋黄焖伴侣特惠5元",
+									"price": 5,
+									"propName": "升级为超值套餐",
 									"isMul": true
 								}
 							]
@@ -395,297 +136,129 @@
 					]
 				},
 				{
-					"name": "羊腰串",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615528107667-127",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "牛/羊肉类",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "猪肉类",
-			"foods": [
-				{
-					"name": "烤生肠10串",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615543850430-219.jpg",
-					"price": 30,
-					"unit": "份",
-					"categoryName": "猪肉类",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "五花肉10串",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615543850430-93",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "猪肉类",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "烤排骨串4串",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615543850430-347.jpg",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "猪肉类",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "烤香肠4串",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615528107667-111",
+					"name": "秘制黄焖腐竹",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-0.png",
 					"price": 16,
 					"unit": "份",
-					"categoryName": "猪肉类",
+					"categoryName": "新品黄焖茄子+米饭",
 					"props": [
 						{
-							"name": "辣度",
+							"name": "要求",
 							"values": [
 								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
+									"value": "打包",
+									"price": 1,
+									"propName": "要求",
 									"isMul": true
 								}
 							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "鸡肉类",
-			"foods": [
-				{
-					"name": "烤鸡脆骨10串",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615528107667-103",
-					"price": 38,
-					"unit": "份",
-					"categoryName": "鸡肉类",
-					"props": [
+						},
 						{
-							"name": "辣度",
+							"name": "份量",
 							"values": [
 								{
-									"value": "不辣",
+									"value": "小份",
 									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
+									"propName": "份量",
 									"isMul": true
 								}
 							]
-						}
-					]
-				},
-				{
-					"name": "烤鸡胗10串",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615528107667-105",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "鸡肉类",
-					"props": [
+						},
 						{
-							"name": "辣度",
+							"name": "口味",
 							"values": [
 								{
 									"value": "不辣",
 									"price": 0,
-									"propName": "辣度",
+									"propName": "口味",
 									"isMul": true
 								},
 								{
 									"value": "微辣",
 									"price": 0,
-									"propName": "辣度",
+									"propName": "口味",
 									"isMul": true
 								},
 								{
 									"value": "中辣",
 									"price": 0,
-									"propName": "辣度",
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "口味",
 									"isMul": true
 								}
 							]
-						}
-					]
-				},
-				{
-					"name": "烤鸡脚4串",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615528107667-104",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "鸡肉类",
-					"props": [
+						},
 						{
-							"name": "辣度",
+							"name": "加料",
 							"values": [
 								{
-									"value": "不辣",
+									"value": "不加料",
 									"price": 0,
-									"propName": "辣度",
+									"propName": "加料",
 									"isMul": true
 								},
 								{
-									"value": "微辣",
+									"value": "青菜",
 									"price": 0,
-									"propName": "辣度",
+									"propName": "加料",
 									"isMul": true
 								},
 								{
-									"value": "中辣",
+									"value": "土豆",
 									"price": 0,
-									"propName": "辣度",
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "黄焖腐竹",
+									"price": 2,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "黄焖豆腐泡",
+									"price": 2,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "黄焖荷包蛋",
+									"price": 2,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "金针菇",
+									"price": 2,
+									"propName": "加料",
 									"isMul": true
 								}
 							]
-						}
-					]
-				},
-				{
-					"name": "烤鸡柳4串",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615543850430-82",
-					"price": 12,
-					"unit": "份",
-					"categoryName": "鸡肉类",
-					"props": [
+						},
 						{
-							"name": "辣度",
+							"name": "升级为超值套餐",
 							"values": [
 								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
+									"value": "清凉茶柠檬汁特惠1元",
+									"price": 1,
+									"propName": "升级为超值套餐",
 									"isMul": true
 								},
 								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
+									"value": "绿豆冰沙特惠2元",
+									"price": 2,
+									"propName": "升级为超值套餐",
 									"isMul": true
 								},
 								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
+									"value": "北冰洋黄焖伴侣特惠5元",
+									"price": 5,
+									"propName": "升级为超值套餐",
 									"isMul": true
 								}
 							]
@@ -693,31 +266,129 @@
 					]
 				},
 				{
-					"name": "骨肉相连4串",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615528107667-98",
-					"price": 12,
+					"name": "秘制黄焖茄子",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-1.png",
+					"price": 19,
 					"unit": "份",
-					"categoryName": "鸡肉类",
+					"categoryName": "新品黄焖茄子+米饭",
 					"props": [
 						{
-							"name": "辣度",
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "要求",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "大份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "口味",
 							"values": [
 								{
 									"value": "不辣",
 									"price": 0,
-									"propName": "辣度",
+									"propName": "口味",
 									"isMul": true
 								},
 								{
 									"value": "微辣",
 									"price": 0,
-									"propName": "辣度",
+									"propName": "口味",
 									"isMul": true
 								},
 								{
 									"value": "中辣",
 									"price": 0,
-									"propName": "辣度",
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "不加料",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "青菜",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "土豆",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "黄焖腐竹",
+									"price": 2,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "黄焖豆腐泡",
+									"price": 2,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "黄焖荷包蛋",
+									"price": 2,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "金针菇",
+									"price": 2,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "升级为超值套餐",
+							"values": [
+								{
+									"value": "清凉茶柠檬汁特惠1元",
+									"price": 1,
+									"propName": "升级为超值套餐",
+									"isMul": true
+								},
+								{
+									"value": "绿豆冰沙特惠2元",
+									"price": 2,
+									"propName": "升级为超值套餐",
+									"isMul": true
+								},
+								{
+									"value": "北冰洋黄焖伴侣特惠5元",
+									"price": 5,
+									"propName": "升级为超值套餐",
 									"isMul": true
 								}
 							]
@@ -725,398 +396,129 @@
 					]
 				},
 				{
-					"name": "烤中翅",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615528107667-114",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "鸡肉类",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "烤鸡腿",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615543850430-315.jpg",
-					"price": 9,
-					"unit": "份",
-					"categoryName": "鸡肉类",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "烤鸡全翅",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615543850430-86",
-					"price": 9,
-					"unit": "份",
-					"categoryName": "鸡肉类",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "鸭肉类",
-			"foods": [
-				{
-					"name": "酱烤鸭肠30串",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615528107667-99",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "鸭肉类",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "鸭舌6串",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615528107667-125",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "鸭肉类",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "无骨鸭掌5串",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615543850430-283.png",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "鸭肉类",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "海鲜类",
-			"foods": [
-				{
-					"name": "烤海虾10串",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615528107667-102",
-					"price": 36,
-					"unit": "份",
-					"categoryName": "海鲜类",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "芥辣干鱿鱼",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615528107667-100",
-					"price": 17,
-					"unit": "份",
-					"categoryName": "海鲜类",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "柠檬秋刀鱼",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615528107667-118",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "海鲜类",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "锡纸类",
-			"foods": [
-				{
-					"name": "锡纸金针菇",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615543850430-81",
+					"name": "秘制黄焖茄子",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-1.png",
 					"price": 16,
 					"unit": "份",
-					"categoryName": "锡纸类",
+					"categoryName": "新品黄焖茄子+米饭",
 					"props": [
 						{
-							"name": "辣度",
+							"name": "要求",
 							"values": [
 								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
+									"value": "打包",
+									"price": 1,
+									"propName": "要求",
 									"isMul": true
 								}
 							]
-						}
-					]
-				},
-				{
-					"name": "锡纸土豆",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615543850430-251.jpg",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "锡纸类",
-					"props": [
+						},
 						{
-							"name": "辣度",
+							"name": "份量",
 							"values": [
 								{
-									"value": "不辣",
+									"value": "小份",
 									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
+									"propName": "份量",
 									"isMul": true
 								}
 							]
-						}
-					]
-				},
-				{
-					"name": "锡纸娃娃菜",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615528107667-124",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "锡纸类",
-					"props": [
+						},
 						{
-							"name": "辣度",
+							"name": "口味",
 							"values": [
 								{
 									"value": "不辣",
 									"price": 0,
-									"propName": "辣度",
+									"propName": "口味",
 									"isMul": true
 								},
 								{
 									"value": "微辣",
 									"price": 0,
-									"propName": "辣度",
+									"propName": "口味",
 									"isMul": true
 								},
 								{
 									"value": "中辣",
 									"price": 0,
-									"propName": "辣度",
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "不加料",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "青菜",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "土豆",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "黄焖腐竹",
+									"price": 2,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "黄焖豆腐泡",
+									"price": 2,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "黄焖荷包蛋",
+									"price": 2,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "金针菇",
+									"price": 2,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "升级为超值套餐",
+							"values": [
+								{
+									"value": "清凉茶柠檬汁特惠1元",
+									"price": 1,
+									"propName": "升级为超值套餐",
+									"isMul": true
+								},
+								{
+									"value": "绿豆冰沙特惠2元",
+									"price": 2,
+									"propName": "升级为超值套餐",
+									"isMul": true
+								},
+								{
+									"value": "北冰洋黄焖伴侣特惠5元",
+									"price": 5,
+									"propName": "升级为超值套餐",
 									"isMul": true
 								}
 							]
@@ -1126,959 +528,1343 @@
 			]
 		},
 		{
-			"name": "蔬菜类",
+			"name": "招牌黄焖系列+米饭",
 			"foods": [
 				{
-					"name": "烤秋葵4串",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615543850430-92",
+					"name": "招牌黄焖鸡",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-2.png",
+					"price": 19,
+					"unit": "份",
+					"categoryName": "招牌黄焖系列+米饭",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "要求",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "不辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "不加料",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "青菜",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "土豆",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "黄焖腐竹",
+									"price": 2,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "黄焖豆腐泡",
+									"price": 2,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "黄焖荷包蛋",
+									"price": 2,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "金针菇",
+									"price": 2,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "升级为超值套餐",
+							"values": [
+								{
+									"value": "北冰洋黄焖伴侣特惠5元",
+									"price": 5,
+									"propName": "升级为超值套餐",
+									"isMul": true
+								},
+								{
+									"value": "绿豆冰沙特惠2元",
+									"price": 2,
+									"propName": "升级为超值套餐",
+									"isMul": true
+								},
+								{
+									"value": "清凉茶柠檬汁特惠1元",
+									"price": 1,
+									"propName": "升级为超值套餐",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "招牌黄焖鸡",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-2.png",
+					"price": 24,
+					"unit": "份",
+					"categoryName": "招牌黄焖系列+米饭",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "要求",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "大份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "不辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "不加料",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "青菜",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "土豆",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "黄焖腐竹",
+									"price": 2,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "黄焖豆腐泡",
+									"price": 2,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "黄焖荷包蛋",
+									"price": 2,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "金针菇",
+									"price": 2,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "升级为超值套餐",
+							"values": [
+								{
+									"value": "北冰洋黄焖伴侣特惠5元",
+									"price": 5,
+									"propName": "升级为超值套餐",
+									"isMul": true
+								},
+								{
+									"value": "绿豆冰沙特惠2元",
+									"price": 2,
+									"propName": "升级为超值套餐",
+									"isMul": true
+								},
+								{
+									"value": "清凉茶柠檬汁特惠1元",
+									"price": 1,
+									"propName": "升级为超值套餐",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "黄焖排骨",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-3.png",
+					"price": 24,
+					"unit": "份",
+					"categoryName": "招牌黄焖系列+米饭",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "要求",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "不辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "不加料",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "青菜",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "土豆",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "黄焖腐竹",
+									"price": 2,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "黄焖豆腐泡",
+									"price": 2,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "黄焖荷包蛋",
+									"price": 2,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "金针菇",
+									"price": 2,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "升级为超值套餐",
+							"values": [
+								{
+									"value": "北冰洋黄焖伴侣特惠5元",
+									"price": 5,
+									"propName": "升级为超值套餐",
+									"isMul": true
+								},
+								{
+									"value": "绿豆冰沙特惠2元",
+									"price": 2,
+									"propName": "升级为超值套餐",
+									"isMul": true
+								},
+								{
+									"value": "清凉茶柠檬汁特惠1元",
+									"price": 1,
+									"propName": "升级为超值套餐",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "黄焖排骨",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-3.png",
+					"price": 29,
+					"unit": "份",
+					"categoryName": "招牌黄焖系列+米饭",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "要求",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "大份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "不辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "不加料",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "青菜",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "土豆",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "黄焖腐竹",
+									"price": 2,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "黄焖豆腐泡",
+									"price": 2,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "黄焖荷包蛋",
+									"price": 2,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "金针菇",
+									"price": 2,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "升级为超值套餐",
+							"values": [
+								{
+									"value": "北冰洋黄焖伴侣特惠5元",
+									"price": 5,
+									"propName": "升级为超值套餐",
+									"isMul": true
+								},
+								{
+									"value": "绿豆冰沙特惠2元",
+									"price": 2,
+									"propName": "升级为超值套餐",
+									"isMul": true
+								},
+								{
+									"value": "清凉茶柠檬汁特惠1元",
+									"price": 1,
+									"propName": "升级为超值套餐",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "黄焖牛腩",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-4.png",
+					"price": 24,
+					"unit": "份",
+					"categoryName": "招牌黄焖系列+米饭",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "要求",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "不辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "不加料",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "青菜",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "土豆",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "黄焖腐竹",
+									"price": 2,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "黄焖豆腐泡",
+									"price": 2,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "黄焖荷包蛋",
+									"price": 2,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "金针菇",
+									"price": 2,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "升级为超值套餐",
+							"values": [
+								{
+									"value": "北冰洋黄焖伴侣特惠5元",
+									"price": 5,
+									"propName": "升级为超值套餐",
+									"isMul": true
+								},
+								{
+									"value": "绿豆冰沙特惠2元",
+									"price": 2,
+									"propName": "升级为超值套餐",
+									"isMul": true
+								},
+								{
+									"value": "清凉茶柠檬汁特惠1元",
+									"price": 1,
+									"propName": "升级为超值套餐",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "黄焖牛腩",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-4.png",
+					"price": 29,
+					"unit": "份",
+					"categoryName": "招牌黄焖系列+米饭",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "要求",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "大份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "不辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "不加料",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "青菜",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "土豆",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "黄焖腐竹",
+									"price": 2,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "黄焖豆腐泡",
+									"price": 2,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "黄焖荷包蛋",
+									"price": 2,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "金针菇",
+									"price": 2,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "升级为超值套餐",
+							"values": [
+								{
+									"value": "北冰洋黄焖伴侣特惠5元",
+									"price": 5,
+									"propName": "升级为超值套餐",
+									"isMul": true
+								},
+								{
+									"value": "绿豆冰沙特惠2元",
+									"price": 2,
+									"propName": "升级为超值套餐",
+									"isMul": true
+								},
+								{
+									"value": "清凉茶柠檬汁特惠1元",
+									"price": 1,
+									"propName": "升级为超值套餐",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "黄焖水豆腐",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-5.png",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "招牌黄焖系列+米饭",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "要求",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "不辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "金针菇",
+									"price": 2,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "黄焖荷包蛋",
+									"price": 2,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "黄焖豆腐泡",
+									"price": 2,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "黄焖腐竹",
+									"price": 2,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "土豆",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "青菜",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "不加料",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "升级为超值套餐",
+							"values": [
+								{
+									"value": "清凉茶柠檬汁特惠1元",
+									"price": 1,
+									"propName": "升级为超值套餐",
+									"isMul": true
+								},
+								{
+									"value": "绿豆冰沙特惠2元",
+									"price": 2,
+									"propName": "升级为超值套餐",
+									"isMul": true
+								},
+								{
+									"value": "北冰洋黄焖伴侣特惠5元",
+									"price": 5,
+									"propName": "升级为超值套餐",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "黄焖水豆腐",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-5.png",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "招牌黄焖系列+米饭",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "要求",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "大份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "不辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "金针菇",
+									"price": 2,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "黄焖荷包蛋",
+									"price": 2,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "黄焖豆腐泡",
+									"price": 2,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "黄焖腐竹",
+									"price": 2,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "土豆",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "青菜",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "不加料",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "升级为超值套餐",
+							"values": [
+								{
+									"value": "清凉茶柠檬汁特惠1元",
+									"price": 1,
+									"propName": "升级为超值套餐",
+									"isMul": true
+								},
+								{
+									"value": "绿豆冰沙特惠2元",
+									"price": 2,
+									"propName": "升级为超值套餐",
+									"isMul": true
+								},
+								{
+									"value": "北冰洋黄焖伴侣特惠5元",
+									"price": 5,
+									"propName": "升级为超值套餐",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "黄焖素菜-主食伴侣",
+			"foods": [
+				{
+					"name": "黄焖生菜(不含米饭)",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-6.png",
 					"price": 12,
 					"unit": "份",
-					"categoryName": "蔬菜类",
+					"categoryName": "黄焖素菜-主食伴侣",
 					"props": [
 						{
-							"name": "辣度",
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "要求",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "口味",
 							"values": [
 								{
 									"value": "不辣",
 									"price": 0,
-									"propName": "辣度",
+									"propName": "口味",
 									"isMul": true
 								},
 								{
 									"value": "微辣",
 									"price": 0,
-									"propName": "辣度",
+									"propName": "口味",
 									"isMul": true
 								},
 								{
 									"value": "中辣",
 									"price": 0,
-									"propName": "辣度",
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "麻辣",
+									"price": 0,
+									"propName": "口味",
 									"isMul": true
 								}
 							]
-						}
-					]
-				},
-				{
-					"name": "烤面筋4串",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615528107667-107",
-					"price": 12,
-					"unit": "份",
-					"categoryName": "蔬菜类",
-					"props": [
+						},
 						{
-							"name": "辣度",
+							"name": "加",
 							"values": [
 								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
+									"value": "米饭",
+									"price": 2,
+									"propName": "加",
 									"isMul": true
 								}
 							]
 						}
 					]
-				},
+				}
+			]
+		},
+		{
+			"name": "最佳黄焖伴侣北冰洋、回到初恋的感觉",
+			"foods": [
 				{
-					"name": "烤豆干4串",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615528107667-101",
-					"price": 12,
-					"unit": "份",
-					"categoryName": "蔬菜类",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "烤茄子",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615528107667-106",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "蔬菜类",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "烤娃娃菜4串",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615528107667-31.png",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "蔬菜类",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "烤韭菜4串",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615543850430-84",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "蔬菜类",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "烤四季豆4串",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615528107667-109",
-					"price": 8,
-					"unit": "份",
-					"categoryName": "蔬菜类",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "烤香菇4串",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615528107667-112",
-					"price": 8,
-					"unit": "份",
-					"categoryName": "蔬菜类",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "烤玉米",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615543850430-85",
-					"price": 8,
-					"unit": "份",
-					"categoryName": "蔬菜类",
-					"props": []
-				},
-				{
-					"name": "烤土豆片4串",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615528107667-110",
-					"price": 8,
-					"unit": "份",
-					"categoryName": "蔬菜类",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "蜜汁小馒头2串",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615528107667-117",
+					"name": "冰爽两重天炎炎夏日解暑神器北冰洋",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-7.png",
 					"price": 6,
 					"unit": "份",
-					"categoryName": "蔬菜类",
+					"categoryName": "最佳黄焖伴侣北冰洋、回到初恋的感觉",
 					"props": []
 				}
 			]
 		},
 		{
-			"name": "凉菜",
+			"name": "饮料类",
 			"foods": [
 				{
-					"name": "凉拌牛肉",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615543850430-88",
-					"price": 28,
+					"name": "绿豆冰沙特惠2元",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-8.png",
+					"price": 2.5,
 					"unit": "份",
-					"categoryName": "凉菜",
+					"categoryName": "饮料类",
 					"props": []
 				},
 				{
-					"name": "凉拌鸭脚",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615528107667-116",
-					"price": 18,
+					"name": "绿豆冰沙",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-8.png",
+					"price": 2.5,
 					"unit": "份",
-					"categoryName": "凉菜",
+					"categoryName": "饮料类",
 					"props": []
 				},
 				{
-					"name": "小黄瓜蘸酱",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615543850430-80",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "凉菜",
-					"props": []
-				},
-				{
-					"name": "凉拌海带丝",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615543850430-443.jpg",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "凉菜",
-					"props": []
-				},
-				{
-					"name": "凉拌皮蛋",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615543850430-539.jpg",
-					"price": 13,
-					"unit": "份",
-					"categoryName": "凉菜",
-					"props": []
-				},
-				{
-					"name": "凉拌毛豆",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615528107667-115",
-					"price": 12,
-					"unit": "份",
-					"categoryName": "凉菜",
-					"props": []
-				},
-				{
-					"name": "拍黄瓜",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615528107667-121",
-					"price": 12,
-					"unit": "份",
-					"categoryName": "凉菜",
-					"props": []
-				},
-				{
-					"name": "下酒花生",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615543850430-90",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "凉菜",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "主食",
-			"foods": [
-				{
-					"name": "海鲜炒饭",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615543850430-79",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "主食",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "炒牛河",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615543850430-78",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "主食",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "南昌炒粉",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615543850430-89",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "主食",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "炒米粉",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615528107667-95",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "主食",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "爆炒/铁板类",
-			"foods": [
-				{
-					"name": "烤鱿鱼串6串",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615543850430-379.jpg",
-					"price": 32,
-					"unit": "份",
-					"categoryName": "爆炒/铁板类",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "炒花甲",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615528107667-94",
-					"price": 25,
-					"unit": "份",
-					"categoryName": "爆炒/铁板类",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "炒田螺",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615528107667-96",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "爆炒/铁板类",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "手撕包菜",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615528107667-123",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "爆炒/铁板类",
-					"props": []
-				},
-				{
-					"name": "酸辣土豆丝",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615543850430-507.jpg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "爆炒/铁板类",
-					"props": []
-				},
-				{
-					"name": "白灼秋葵",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615543850430-87",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "爆炒/铁板类",
-					"props": []
-				},
-				{
-					"name": "白灼生菜",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615543850430-91",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "爆炒/铁板类",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "酒水",
-			"foods": [
-				{
-					"name": "黄啤扎啤",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615803782517-107.jpg",
-					"price": 30,
-					"unit": "份",
-					"categoryName": "酒水",
-					"props": [
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "小炮1.5L",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "黄啤扎啤",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615803782517-132.jpg",
-					"price": 52,
-					"unit": "份",
-					"categoryName": "酒水",
-					"props": [
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "大炮3L",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "黑啤扎啤",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615803782517-182.jpg",
-					"price": 68,
-					"unit": "份",
-					"categoryName": "酒水",
-					"props": [
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "大炮3L",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "黑啤扎啤",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615803782517-157.jpg",
-					"price": 38,
-					"unit": "份",
-					"categoryName": "酒水",
-					"props": [
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "小炮1.5L",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "精酿黄啤",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615803782517-207.jpg",
-					"price": 42,
-					"unit": "份",
-					"categoryName": "酒水",
-					"props": [
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "小炮1.5L",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "精酿黄啤",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615803782517-232.jpg",
-					"price": 78,
-					"unit": "份",
-					"categoryName": "酒水",
-					"props": [
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "大炮3L",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "江小白",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615803782517-332.jpg",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "酒水",
-					"props": [
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "100m l",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "江小白",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615803782517-357.jpg",
-					"price": 45,
-					"unit": "份",
-					"categoryName": "酒水",
-					"props": [
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "300m l",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "劲酒",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615803782517-382.jpg",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "酒水",
-					"props": []
-				},
-				{
-					"name": "乌苏啤酒",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615803782517-307.jpg",
-					"price": 12,
-					"unit": "份",
-					"categoryName": "酒水",
-					"props": []
-				},
-				{
-					"name": "百威600ml",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615803782517-282.jpg",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "酒水",
-					"props": []
-				},
-				{
-					"name": "哈啤600ml",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615803782517-257.jpg",
-					"price": 8,
-					"unit": "份",
-					"categoryName": "酒水",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "饮料",
-			"foods": [
-				{
-					"name": "可口可乐",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615803782517-457.jpg",
-					"price": 4,
-					"unit": "份",
-					"categoryName": "饮料",
-					"props": [
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "330m l",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "可口可乐",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615803782517-482.jpg",
-					"price": 12,
-					"unit": "份",
-					"categoryName": "饮料",
-					"props": [
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "1.25L",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "雪碧",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615803782517-507.jpg",
-					"price": 4,
-					"unit": "份",
-					"categoryName": "饮料",
-					"props": [
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "330m l",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "雪碧",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615803782517-532.jpg",
-					"price": 12,
-					"unit": "份",
-					"categoryName": "饮料",
-					"props": [
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "1.25L",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "加多宝300ml",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615803782517-407.jpg",
-					"price": 5,
-					"unit": "份",
-					"categoryName": "饮料",
-					"props": []
-				},
-				{
-					"name": "天地壹号",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615803782517-432.jpg",
-					"price": 7,
-					"unit": "份",
-					"categoryName": "饮料",
-					"props": []
-				},
-				{
-					"name": "椰汁245ml",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615803782517-582.jpg",
+					"name": "北冰洋气水",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-9.png",
 					"price": 6,
 					"unit": "份",
-					"categoryName": "饮料",
+					"categoryName": "饮料类",
 					"props": []
 				},
 				{
-					"name": "怡宝555ml",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615803782517-557.jpg",
+					"name": "维他奶",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-10.png",
 					"price": 3,
 					"unit": "份",
-					"categoryName": "饮料",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "可乐铝罐",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-11.png",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "芬达铝罐",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-12.png",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "雪碧铝罐",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-13.png",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "小可乐",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-14.png",
+					"price": 2.5,
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "小美年达塑料瓶装",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-15.png",
+					"price": 2.5,
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "桂花酸梅汤",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-16.png",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "百香果汁",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-17.png",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "葡萄汁",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-18.png",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "维他柠檬茶罐",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-19.png",
+					"price": 5,
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "王老吉",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-20.png",
+					"price": 5,
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "维他柠檬茶",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-21.png",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "可乐大瓶1.25L",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-22.png",
+					"price": 7,
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "雪碧大瓶1.25L",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-23.png",
+					"price": 7,
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "测试菜（勿点）",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-24.png",
+					"price": 0.01,
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "矿泉水",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-25.png",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "蜂蜜柠檬汁",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-26.png",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "清凉茶",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-27.png",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "芒果汁纸盒",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-28.png",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "菊花茶",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-29.png",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "维他奶纸盒",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-30.png",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "青岛啤酒玻璃瓶",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-31.png",
+					"price": 5,
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "果粒橙",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-32.png",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "饮料类",
 					"props": []
 				}
 			]
@@ -2087,28 +1873,44 @@
 			"name": "其他",
 			"foods": [
 				{
-					"name": "纸巾",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615803782517-632.jpg",
+					"name": "米饭",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-33.png",
 					"price": 2,
 					"unit": "份",
 					"categoryName": "其他",
-					"props": []
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "要求",
+									"isMul": true
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "餐位费",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615803782517-657.jpeg",
-					"price": 1,
+					"name": "黃焖荷包蛋不含米饭",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6190cde4a2cb4348b2412cfda058c834-34.png",
+					"price": 2,
 					"unit": "份",
 					"categoryName": "其他",
-					"props": []
-				},
-				{
-					"name": "打包盒",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615803782517-607.png",
-					"price": 1,
-					"unit": "份",
-					"categoryName": "其他",
-					"props": []
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "要求",
+									"isMul": true
+								}
+							]
+						}
+					]
 				}
 			]
 		}

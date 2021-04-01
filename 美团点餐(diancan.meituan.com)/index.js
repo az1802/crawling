@@ -13,7 +13,7 @@ const exportMode = "keruyun"
 
 let requestShopData = require("./shopData.json");
 let requestMenuDataAll = require("./menuData.json");
-let requestMenuData = requestMenuDataAll.posMenuList[0].posDishCateList
+let requestMenuData = requestMenuDataAll.menu
 const { isRegExp } = require("util");
 
 
@@ -80,18 +80,18 @@ async function  handleRequestData(requestShopData,requestMenuData) {
         foods:[]
       };
       categoryData.name = categoryItem.name;
-      categoryData.foods = (categoryItem.posDishSpuList || categoryItem.posComboList).reduce((res, foodItem) => {
+      categoryData.foods = (categoryItem.items).reduce((res, foodItem) => {
         
 
-        if (foodItem) {
+        if (foodItem&&foodItem.status=="AVAILABLE") {
           
-          let price = foodItem.price ? parseFloat(foodItem.price/100): (foodItem.dishSkuList[0]&&foodItem.dishSkuList[0].price ? parseFloat(foodItem.dishSkuList[0].price/100) : 0 )
+          let price = foodItem.price ? parseFloat(foodItem.price/100): (foodItem.skus[0]&&foodItem.skus[0].price ? parseFloat(foodItem.skus[0].price/100) : 0 )
 
           let foodData = {
             name:foodItem.name.trim() || "",
-            picUrl: foodItem.imgUrls[0]|| "",
+            picUrl: foodItem.imageUrl || "",
             price:price,
-            unit: foodItem.unit || "份",
+            unit: foodItem.unit || foodItem.skus[0].name || "份",
             categoryName: categoryData.name,
             props:[],
           };
